@@ -1,0 +1,79 @@
+# Chapter Structure
+
+***
+In this chapter, you learn how to:
+
+- Determine what and what not to include in a chapter
+- Include technical supplements as needed
+- Assess types of exercises and book resources that are appropriate for a chapter 
+
+***
+
+## Chapter Preview and Learning Objectives
+
+- *Chapter Preview*. Begin with a chapter preview to set the stage of the chapter.
+
+- *Learning Objectives*. At the beginning of each chapter and section, describe in a few bullet points what the reader can expect to learn.
+
+
+
+## Main Body
+
+
+Split the chapter into 4-7 sections; within each section, introduce 0-5 subsections. Do not develop a deeper hierarchy (e.g., a "sub-subsection"). Use nonlinear aspects of the web. For example, detailed mathematical developments can go into a technical appendix or are simply hidden (using javascript "hide/show" tools) unless the viewer really wants to see the details. Case studies and historical references can be included in "side-bars," a supporting webpage. For the main body of the chapter, think about "25 pages" in length (whatever that means....).
+
+
+### What to Include
+
+- Within the chapter, use boxed and numbered lists of procedures for easy reference.
+
+- It is certainly okay (and expected) to use mathematical notation although please adhere to the conventions described in Section \@ref(S:NotationConvention). Each chapter should have examples interwoven within theory, allowing readers to see the development of the theory along with the importance of the applications.
+
+- Distinguish between an *"Example"* and a *"Special Case"*. The former shows how to relate the mathematics to a practical situation likely to be encountered by a practicing actuary. The latter looks at a subset of a general (usually) mathematical result. A few special cases are certainly acceptable but we want to focus on developing examples.
+
+- Think of graphical ways to visualize/summarize relationships that you want to emphasize. 
+
+- Begin each section with a short bullet list describing the learning objectives of that section. Finish each section with a short quiz on these learning objectives. As of this writing (July 2018), quizzes are multiple-choice.
+
+- Include short exercises/examples/special cases that can be readily solved by the viewer (with solutions using "hide/show" features) within the main body. These serve to reinforce concepts and provide benchmarks for understanding.
+
+### What Not to Include
+
+- Do not include development of equations/formulas in the main body of the text. The main body of the text will be devoted to presenting results, providing context and intuition as to the importance of the results. 
+
+- Do not include references to the literature. This will appear in the last section on "Further Reading and References." 
+
+- Do not include graphs whose information could easily be summarized by a table.
+
+## Technical Supplements 
+We  want our viewers to understand the underpinnings of the theory (the old analogy of "what is going on under the hood to see how the engine works" - no black boxes.) So, there will be occasions when you feel like a short development or "proof"; is reasonable. Put this in an appendix. Technical supplements should develop the theory in a step-by-step fashion, building on each concept in a crisp, mathematical fashion.
+
+    
+## Contributors and Further Resources {#S:further-reading-and-resources }
+    
+### Contributors 
+
+Make sure that contributors are listed at the end of the chapter. The following provides an example.
+
+```
+####Contributors {-}
+
+- Edward W. (Jed) Frees, University of Wisconsin-Madison, 
+is the principal author of the initital version of this chapter. 
+Email: jfrees@bus.wisc.edu for chapter comments and 
+suggested improvements. Helpful improvements provided by
+Alyaa Nuval Binti Othman and Aisha Nuval Binti Othman.
+
+```    
+      
+### Further Reading and References
+
+Do not finish with a "preview of upcoming chapter"; finish instead with a "Further Reading and References." This consists of a series of references with one or two lines of annotation for each reference that the interested reader could follow up on (self-citations are okay!). Historical developments are particularly nice in this section. 
+
+
+
+
+
+      
+      
+

@@ -1,0 +1,55 @@
+
+# Interactive Book Features  {#S:Interactive}
+
+An advantage of publishing on the web is that we can produce an online version that contains many interactive objects such as quizzes, computer demonstrations, interactive graphs, video, and the like, to promote **deeper learning**.
+
+We want viewers to interact with the book; it is **not** written to accommodate the “armchair reader,” that is, one who passively reads and does not get involved by attempting the exercises in the text. Consider an analogy to sports; there is a great deal that you can learn about the game just by watching. However, if you want to sharpen your skills, then you have to go out and play the game. 
+
+
+##Examples and Exercises
+
+Even for traditional offline (pdf) version of the book, we include problems that allow readers to develop their learning.
+
+Each chapter contains several “Examples” or “Exercises” - these are focused problems that generally ask the reader to do a calculation or provide an interpretation of a statistical issue. We call them “examples” when they appear in the main body of the text and “exercises” when they appear at the end of the chapter. The need for hand calculations has been advocated by Khamis (1991)[^2]. Many teachers have found it useful to practice the mechanics in order to provide a solid foundation. With this foundation, we can get on to the real business; interpreting data using statistical principles. 
+
+We anticipate that substantial exercise banks will be built over time by users, professional associations, and those with commercial interests. When developing the chapter foundations, think about the following types of problems. 
+
+- **Hand Calculation.** These are  problems that can be solved without the use of a computer. They typically reinforce a statistical or actuarial concept as well as highlight an issue that might be encountered in practice. For this book, these problems often involve algebraic and calculus manipulations. When writing these types of problems, readers are more motivated if they understand *why* the problem is important. What actuarial issue is being addressed? What statistical concept is being practiced? Often, a simple line or two prefacing a problem can help substantially in this regard.
+- **Software.** These are  problems that ask the reader to work with `R` software, such as calculating a function or reproducing a graph.
+- **Data.** These are  problems that ask the reader to work with data. The need for working with real data is well documented; for example, see Hogg (1972), Moore and Roberts (1989) or Singer and Willett (1990). By providing detailed guided tutorials that work with theory and data, we teach our students the essence of *Loss Data Analytics*. Of course, there are some important disadvantages to working with real data. Data sets can quickly become outdated. Further, the ideal data set to illustrate a specific statistical issue is difficult to find. Data exercises are complex and can span several chapter sections as well as chapters.
+
+Examples and exercises are designed so that they illustrate a general analytics/statistical concept; they have the additional advantage in that they are often based on actuarial professional examinations and so provide readers with training for these assessment frameworks. Notably, *in the online version of the book, the solutions to the examples and exercises are hidden to encourage readers to actively solve (or at least consider) prior to revealing a solution.*
+
+##Statistical Code
+
+However, the limitation of exercise and examples done by hand is that they give **little insight** as to how the general analytics/statistical concepts can be used in applications or why more extensive treatments beyond the foundations would be needed. To address these limitations, throughout we include illustrate statistical code with sample (but real) datasets. The statistical language used throughout is `R`. For two reasons, the `R` code is hidden in the online version but can be interactively revealed but clicking a button. 
+
+- First, we want to focus on the analytics/statistical concepts and do not wish for readers to be distracted by software code that emphasizes implementation, not concepts. 
+- Second, not all readers will use `R` (there are many good alternative software programs available) and we want the book to be available to a broad readership.
+
+Although we do not focus on developing `R` tutorials, we will provide guides and links to people who wish to learn `R`. Our focus is on teaching statistical methods and actuarial issues, not software. Over time, the project may also provide support for users of other software environments, such as Microsoft's Excel or Python.
+
+  
+##Other Interactive Features
+
+A wonderful aspect of an online text is that we can readily incorporate other interactive features. In coming versions of the book, you can expect to see 
+
+- a glossary (hover the cursor over a technical word or phrase to reveal a definition), 
+- links to relevant applications of the basic concept, as well as 
+- end of the section quizzes that provide “low-level formative assessments” so that they reader can gauge his or her understanding of the material. 
+
+Some of the support material associated with the book also emphasizes interactive aspects. For example, detailed *R code* allows readers to learn complex statistical routines and provides sample code so that users can develop their own libraries of useful routines. Another site will feature `R-Shiny`, an interactive graphic tool that provides dynamic graphing features. The concept of active learning promotes one of the deeper learning goals set forth by some educational leaders: The ability to learn how to learn independently.
+
+
+## Additional Book Resources Supporting Each Chapter
+
+We are hopeful that there will be several resources support the book that will appear outside of the chapter structure. Although not necessarily interactive, they will help develop users' learning. These include:
+
+- **Case Studies and Historical Vignettes.** Similar to those appearing within the chapter, include short exercises/examples/special cases that can be readily solved by the viewer. These serve to reinforce concepts and provide benchmarks for understanding. Case studies can be used to emphasize different practices in different countries. Historical vignettes can be interesting in their own right and remind us all of the foundations of our discipline.
+- **Data.** We anticipate developing a library of data sets that can be used by instructors who wish to emphasize different areas of practice.
+- **Technical Supplements, Lists, and Tables.** The roles of technical supplements has already been described and there could be many. As is common in textbooks, we will also provide a place for lists or tables of organized facts for learners.
+
+
+
+[^2]: “Manual Computations—A Tool for Reinforcing Concepts and Techniques,” H. J. Khamis, Pages 294-299, *The American Statistician*, Volume 45, 1991 - Issue 4
+
