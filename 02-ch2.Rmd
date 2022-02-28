@@ -1,4 +1,3 @@
-
 # Samples of Writing in `R bookdown` {#S:SampleSection}
 
 ***
