@@ -1,0 +1,70 @@
+# Social Science & IR
+
+## Interaction between political units in world politics
+
+Classically the interaction between countries. But its much more than that. **International Relations**, a subfield of political science, studies **interactions among the various actors that participate in international politics**.
+
++ Politically, states are confronted with issues like disease, migration, and environmental degradation that governments cannot manage on their own: War, alliances
+
++ Economically, states’ financial markets are tied together; the internationalization of production makes it more difficult for states to regulate their own economic policies and causes them to be more affected by international forces: Trade, investment, aid
+
+**Globalization** is the growing integration of the world in terms of politics, economics, and culture. Financial markets are tied together and states are experiencing cultural homogenization.
+
+**IR** also studies political phenomena beyond the scope of countries, such as financial crises, human rights, United Nations, WTO, Regional & Global Events.
+
+## Social science
+
+For establishing scientific knowledge, we should answer two questions:
+
+1. On questions of fact: scientific facts should be **empirical** and **reproducible**.
+
+2. On question of theory: scientific knowledge must be **explanatory** and **testable**.
+
+## Social science and International Relations
+
+Political scientists develop theories to understand the causes of events that occur in international relations.
+
+Key theories are 
+
+  + Realism and neorealism
+  
+  + Liberalism and neoliberal institutionalism
+  
+  + Constructivism
+  
+These theories help us describe, explain, and predict. Suppose a theory has a following structure: `X` (cause) causes `Y` (outcome) under `C` (conditions).
+
++ To evaluate the theory, we should **describe** what `X`, `Y` and `C`.
+
++ When we know what `X` and `C` are, we can **predict** `Y` with the theory.
+
++ When we know what `Y` is and the theory, we can **explain** what causes `Y`.
+
++ **Conditions**
+
+  + Spatial: For example, U.S., Latin America, East Asia, or Africa
+  
+  + Temporal: After the Cold War, during the Great Depression, under the Pandemic
+  
+  + Other factors: The Effect of `X` on `Y` can be conditional on `C`.
+
+To assess the accuracy, relevancy, and potency of their theories, scholars of international relations rely on history, philosophy, and scientific method. 
+
+Much of classical philosophy focuses on the state and its leaders—the basic building blocks of international relations.
+
++ Hobbes: society can escape from the state of nature through a unitary state with centralized power.
+
++ Rousseau: small communities, in which the general will can be attained, lead to the fulfillment of the individual’s self-interests.
+
++ Kant: a federation of sovereign republics bound by the rule of law is a means to peace.
+
+Philosophy helps us speculate on the **normative** (or moral) elements of political life. Normative questions are the “should questions.” However, scholars experienced several failure to explain global events, such as World Wars and ask a question if such normative theories are sufficient. Thus, the scientific method of behavioralism emerged, proposing  that individuals, both alone and in groups, act in patterned ways. 
+
+### Behaviorism
+
+#### Description
+Behaviolist believes that generalizable patterns may be found and suggests plausible hypotheses regarding those patterned actions, and empirically tests those hypotheses. 
+
+#### Significance
+
+Behaviolism changed the question from the "should" question to "why" question. Behavioralism made political scientists to conceptualize and operationalize (measure) the concepts to evaluate **empirical** questions.

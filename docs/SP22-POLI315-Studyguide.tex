@@ -1,0 +1,288 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{book}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={Style Guide for POLI315 International Relations in Spring 2022},
+  pdfauthor={Sanghoon Park},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\hypersetup{colorlinks,%
+citecolor=blue,%
+linkcolor=blue,%
+urlcolor=blue,%
+pdftex}
+
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage{longtable}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage[]{natbib}
+\bibliographystyle{apalike}
+
+\title{Style Guide for POLI315 International Relations in Spring 2022}
+\author{Sanghoon Park}
+\date{2022-03-01}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\hypertarget{preface}{%
+\chapter*{Preface}\label{preface}}
+\addcontentsline{toc}{chapter}{Preface}
+
+The exams will evaluate student's knowledge of key concepts discussed in class. The midterm exam will cover material from classes between January 13th and March 3rd, while the final exam will cover material from classes between March 22nd and April 21st.
+
+\hypertarget{midterm-description}{%
+\section*{Midterm Description}\label{midterm-description}}
+\addcontentsline{toc}{section}{Midterm Description}
+
+\hypertarget{date-and-time}{%
+\subsection*{Date and Time}\label{date-and-time}}
+\addcontentsline{toc}{subsection}{Date and Time}
+
+Thursday, March 17th from 2:50 pm to 4:05 pm
+
+\hypertarget{items}{%
+\subsection*{Items}\label{items}}
+\addcontentsline{toc}{subsection}{Items}
+
+Midterm will consist of multiple choice questions, true/false questions, and a short answers.
+
+\hypertarget{make-up}{%
+\subsection*{Make-up}\label{make-up}}
+\addcontentsline{toc}{subsection}{Make-up}
+
+Makeup mid-term exams will be allowed only with pre-approval of the instructor or with an acceptable, documented reason. Acceptable reasons for makeup exams include severe illness, family emergencies or other unavoidable events including dangerous weather conditions and car accidents. Exam format for makeup exams may be different from the original exam and will likely utilize a short answer format. An oral examination may also be utilized if deemed appropriate by the instructor.
+
+\hypertarget{midterm-format}{%
+\subsection*{Midterm Format}\label{midterm-format}}
+\addcontentsline{toc}{subsection}{Midterm Format}
+
+\captionsetup[table]{labelformat=empty,skip=1pt}
+\begin{longtable}{lrrr}
+\caption*{
+{\large SPRING 2022 POLI315 Midterm}
+} \\ 
+\toprule
+Type & Number & Point for individual question (pt) & Sum (pt) \\ 
+\midrule
+Multiple Choices & 15 & 3.5 & 52.5 \\ 
+T/F & 5 & 3.5 & 17.5 \\ 
+Short answers & 5 & 6.0 & 30.0 \\ 
+Total & 25 &  & 100.0 \\ 
+ \bottomrule
+\end{longtable}
+
+As the Midterm is worth of 25\% in final grades, I will calculate the score of Midterm as 0.25 \(\times\) Midterm points. For example, if you obtain 80 pts in the midterm, it will be 20 pts in your final grades.
+
+\hypertarget{how-to-study}{%
+\section*{How to study}\label{how-to-study}}
+\addcontentsline{toc}{section}{How to study}
+
+Remember our course objectives:
+
+\begin{itemize}
+\item
+  As a result of the class, students will be able to:
+
+  \begin{itemize}
+  \item
+    have some basic knowledge of the definition of international relations and the different approaches to studying international relations.
+  \item
+    identify and describe dominant topics and concepts related to international relations.
+  \item
+    obtain a comprehensive understanding of international relations.
+  \item
+    sharpen research and critical thinking skills.
+  \end{itemize}
+\item
+  Thus, students should:
+
+  \begin{itemize}
+  \item
+    know basic concepts to understand the topics in international relations.
+  \item
+    know existing theories to explain the phenomenon in which scholars in international relations are interested.
+  \item
+    be able to apply the existing theories to different contexts.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{social-science-ir}{%
+\chapter{Social Science \& IR}\label{social-science-ir}}
+
+\hypertarget{interaction-between-political-units-in-world-politics}{%
+\section{Interaction between political units in world politics}\label{interaction-between-political-units-in-world-politics}}
+
+Classically the interaction between countries. But its much more than that. \textbf{International Relations}, a subfield of political science, studies \textbf{interactions among the various actors that participate in international politics}.
+
+\begin{itemize}
+\item
+  Politically, states are confronted with issues like disease, migration, and environmental degradation that governments cannot manage on their own: War, alliances
+\item
+  Economically, states' financial markets are tied together; the internationalization of production makes it more difficult for states to regulate their own economic policies and causes them to be more affected by international forces: Trade, investment, aid
+\end{itemize}
+
+\textbf{Globalization} is the growing integration of the world in terms of politics, economics, and culture. Financial markets are tied together and states are experiencing cultural homogenization.
+
+\textbf{IR} also studies political phenomena beyond the scope of countries, such as financial crises, human rights, United Nations, WTO, Regional \& Global Events.
+
+\hypertarget{social-science}{%
+\section{Social science}\label{social-science}}
+
+For establishing scientific knowledge, we should answer two questions:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  On questions of fact: scientific facts should be \textbf{empirical} and \textbf{reproducible}.
+\item
+  On question of theory: scientific knowledge must be \textbf{explanatory} and \textbf{testable}.
+\end{enumerate}
+
+\hypertarget{social-science-and-international-relations}{%
+\section{Social science and International Relations}\label{social-science-and-international-relations}}
+
+Political scientists develop theories to understand the causes of events that occur in international relations.
+
+Key theories are
+
+\begin{itemize}
+\item
+  Realism and neorealism
+\item
+  Liberalism and neoliberal institutionalism
+\item
+  Constructivism
+\end{itemize}
+
+These theories help us describe, explain, and predict. Suppose a theory has a following structure: \texttt{X} (cause) causes \texttt{Y} (outcome) under \texttt{C} (conditions).
+
+\begin{itemize}
+\item
+  To evaluate the theory, we should \textbf{describe} what \texttt{X}, \texttt{Y} and \texttt{C}.
+\item
+  When we know what \texttt{X} and \texttt{C} are, we can \textbf{predict} \texttt{Y} with the theory.
+\item
+  When we know what \texttt{Y} is and the theory, we can \textbf{explain} what causes \texttt{Y}.
+\item
+  \textbf{Conditions}
+
+  \begin{itemize}
+  \item
+    Spatial: For example, U.S., Latin America, East Asia, or Africa
+  \item
+    Temporal: After the Cold War, during the Great Depression, under the Pandemic
+  \item
+    Other factors: The Effect of \texttt{X} on \texttt{Y} can be conditional on \texttt{C}.
+  \end{itemize}
+\end{itemize}
+
+To assess the accuracy, relevancy, and potency of their theories, scholars of international relations rely on history, philosophy, and scientific method.
+
+Much of classical philosophy focuses on the state and its leaders---the basic building blocks of international relations.
+
+\begin{itemize}
+\item
+  Hobbes: society can escape from the state of nature through a unitary state with centralized power.
+\item
+  Rousseau: small communities, in which the general will can be attained, lead to the fulfillment of the individual's self-interests.
+\item
+  Kant: a federation of sovereign republics bound by the rule of law is a means to peace.
+\end{itemize}
+
+Philosophy helps us speculate on the \textbf{normative} (or moral) elements of political life. Normative questions are the ``should questions.'' However, scholars experienced several failure to explain global events, such as World Wars and ask a question if such normative theories are sufficient. Thus, the scientific method of behavioralism emerged, proposing that individuals, both alone and in groups, act in patterned ways.
+
+\hypertarget{behaviorism}{%
+\subsection{Behaviorism}\label{behaviorism}}
+
+\hypertarget{description}{%
+\subsubsection{Description}\label{description}}
+
+Behaviolist believes that generalizable patterns may be found and suggests plausible hypotheses regarding those patterned actions, and empirically tests those hypotheses.
+
+\hypertarget{significance}{%
+\subsubsection{Significance}\label{significance}}
+
+Behaviolism changed the question from the ``should'' question to ``why'' question. Behavioralism made political scientists to conceptualize and operationalize (measure) the concepts to evaluate \textbf{empirical} questions.
+
+\hypertarget{the-historical-context}{%
+\chapter{The Historical Context}\label{the-historical-context}}
+
+\hypertarget{grand-theories}{%
+\chapter{Grand Theories}\label{grand-theories}}
+
+  \bibliography{book.bib,packages.bib}
+
+\end{document}

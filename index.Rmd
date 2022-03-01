@@ -1,24 +1,91 @@
 --- 
-title: "Style Guide for Loss Data Analytics"
-author: "An open text authored by the Actuarial Community"
+title: "Style Guide for POLI315 International Relations in Spring 2022"
+author: "Sanghoon Park"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-description: "This is a style guide to help authors write chapters for Loss Data Analytics"
+description: "This is a style guide to help students study for POLI315 International Relations in Spring 2022"
 ---
 # Preface {-}
 
-It is important for chapters in the *Open Actuarial Textbooks* project to have a consistent look and feel. The *Style Guide for Loss Data Analytics* aims to assist contributors in developing chapters consistently throughout the *Loss Data Analytics* book. 
+```{r, include = F}
+Sys.setlocale("LC_ALL","English")
+```
 
-This guide is set up as sample chapters containing 
+The exams will evaluate student's knowledge of key concepts discussed in class. The midterm exam will cover material from classes between January 13th and March 3rd, while the final exam will cover material from classes between March 22nd and April 21st.
 
-- information regarding suitable content for a chapter, 
-- methods to implement chapter elements and 
-- conventions for consistent notation.
+## Midterm Description {-}
+### Date and Time {-}
+
+Thursday, March 17th from 2:50 pm to 4:05 pm
+
+### Items {-}
+
+Midterm will consist of multiple choice questions, true/false questions, and a short answers.
+
+### Make-up {-}
+
+Makeup mid-term exams will be allowed only with pre-approval of the instructor or with an acceptable, documented reason. Acceptable reasons for makeup exams include severe illness, family emergencies or other unavoidable events including dangerous weather conditions and car accidents. Exam format for makeup exams may be different from the original exam and will likely utilize a short answer format. An oral examination may also be utilized if deemed appropriate by the instructor.
+
+### Midterm Format {-}
+
+```{r, include=F}
+Sys.setlocale(category = 'LC_ALL', locale = 'english')
+```
 
 
+```{r, echo = F, message = F, warning=F}
+library(tidyverse)
+midterm <-
+  tibble(
+    Type = c("Multiple Choices", "T/F", 
+             "Short answers", "Total"),
+    Number = c(15, 5, 5, 25),
+    `Point for individual question (pt)` = c(3.5, 3.5, 6, NA),
+    `Sum (pt)` = c(52.5, 17.5, 30, 100)
+  )
 
+midterm %>% gt::gt() %>%
+  gt::tab_header(
+    title = "SPRING 2022 POLI315 Midterm") %>%
+  gt::fmt_missing(
+    columns = 1:4,
+    missing_text = ""
+    ) %>%
+  gt::tab_options(
+    table.width = gt::pct(100))
+  #   ) %>%
+  # gt::tab_footnote(
+  #   footnote = "Items for Bonus credits will be from T/F and short answer question, repectively.",
+  #   location = gt::cells_column_labels(
+  #     columns = `Sum (pt)`
+  #   )
 
+```
+
+As the Midterm is worth of 25% in final grades, I will calculate the score of Midterm as 0.25 $\times$ Midterm points. For example, if you obtain 80 pts in the midterm, it will be `r 0.25*80` pts in your final grades.
+
+## How to study {-}
+
+Remember our course objectives:
+
++ As a result of the class, students will be able to:
+
+  + have some basic knowledge of the definition of international relations and the different approaches to studying international relations.
+  
+  + identify and describe dominant topics and concepts related to international relations.
+  
+  + obtain a comprehensive understanding of international relations.
+  
+  + sharpen research and critical thinking skills.
+  
++ Thus, students should:
+
+  + know basic concepts to understand the topics in international relations.
+  
+  + know existing theories to explain the phenomenon in which scholars in international relations are interested.
+  
+  + be able to apply the existing theories to different contexts.

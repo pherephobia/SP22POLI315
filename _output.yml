@@ -1,13 +1,15 @@
 bookdown::gitbook:
+  includes:
+    in_header: [hypothesis.html, google_analytics.html]
   css: style.css
   split_bib: FALSE
   #split_bib: TRUE
   config:
     toc:
       before: |
-        <li><a href="./">A Style Guide for POLI315 SP22</a></li>
+        <li><a href="./">A Midterm Study Guide for POLI315</a></li>
       after: |
-        <li><a href="https://github.com/pherephobia/SP22POLI315" target="blank">Published with bookdown</a></li>
+        <li><a href="https://github.com/pherephobia/SP22POLI315/" target="blank">Published with bookdown</a></li>
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:
@@ -22,5 +24,3 @@ bookdown::html_document2:
   toc_float:
     collapsed: true
     smooth_scroll: false
-
-

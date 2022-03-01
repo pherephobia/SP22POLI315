@@ -12,3 +12,52 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+
+.usc-red {
+  color: #73000a;
+}
+
+.usc-gray-blue{
+  color: #dadfe1;
+}
+
+.usc-gray-darker{
+  color: #646569;
+}
+
+.usc-gray-darkest{
+  color: #282728;
+}
+
+.usc-anchor-color{
+  color: #0479a8;
+}
+
+.p1-yellow {
+  color: #f9ed69;
+}
+
+.p1-orange {
+  color: #f08a5d;
+}
+
+.p1-darkred {
+  color: #73000a;
+}
+
+.p1-red {
+  color: #c5050c;
+}
+
+.p1-purple {
+  color: #6a2c70;
+}
+
+.p1-blue {
+  color: #769fcd;
+}
+
+.p1-green {
+  color: #59a059;
+}
