@@ -391,9 +391,7 @@ I will update it after the 6th pop quiz.
 
     D. (1) Catch-all party - (2) Programmatic party - (3) Patronage-oriented party - (4) New politics party - (5) Party of mass integration
 
-```{r, echo = F, fig.cap="Party models based on their goals"}
-knitr::include_graphics("w23_fig5.png")
-```
+
 
 40. Imagine a country with an ethnically heterogeneous population. The different ethnic groups are geographically clustered so that if you consider particular areas of the country in isolation, they have relatively homogeneous populations. If such a country were to adopt a federal system, which type of federalism would you expect it to adopt?
 
