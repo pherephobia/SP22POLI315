@@ -1,0 +1,79 @@
+# Levels of Analysis in International Relations
+
+It is the direction, or “level,” from which the primary cause of events is coming. Understanding where facts are coming from helps us to sort out facts and the origins of causes in highly complex problems (external vs. internal; systemic, domestic, and individual level). 
+
++ Dividing the analysis of international politics into levels of analysis helps orient our questions and suggests the appropriate type of evidence to explore. 
+
++ We can approach the study of international relations not only by looking through the lenses of the various perspectives but also by highlighting explanatory factors that occur at the different levels of analysis.
+
+## Different Levels
+
++ International system level: focuses on systemic characteristics such as power distribution
+
++ State level] focuses on domestic factors and internal characteristics of states
+
+  + Organizational level: focuses on particular groups or organizations such as firms or interest groups and their choices.
+
++ Individual level: focuses on individuals and their perceptions, choices, activities, etc.
+
+## Macro level: Holism
+
+Macro level focuses on systems as a whole rather than individually. It considers that the whole is more than a sum of its parts. However, it has a possible ecological fallacy.
+
+## Micro level: Reductionism
+
+Micro level can be called methodological individualism (McGaw and Watson, 1976), which argues that the whole is nothing more than a sum of its part. However, micro level analysis also have a possible fallacy of composition.
+
+## Which International Polarity Is More Stable?
+### Kenneth Waltz: bipolarity is more stable.
+
++ Disruptive behavior is immediately evident.
+
++ Two sides can moderate each other’s use of violence.
+
++ They can absorb potentially destabilizing changes.
+
++ Each focuses its activity on just the other. 
+
+### Some theorists believe that multipolarity can be quite stable.
+
+The success of multipolarity depends on whether rules are followed. When an essential actor ignores the understood rules, the system may become unstable.
+
++ There are more interactions and less opportunity to dwell on one state.
+
++ There is a greater flexibility of responses to threats.
+
++ Shifting alliances allow for flexibility and enhance a balance of power. 
+
++ Wars are limited in nature and designed to preserve a balance of power.
+
+### Hegemonic stability theorists argue that unipolarity is more stable.
+
++ The hegemon pays the price of enforcing norms to ensure stability.
+
+  + They create rules and institutions in various issue areas to help guide states’ behavior.
+  
+  + Hegemons must be able and willing to lead the international community for the system to be stable.
+  
++ When the hegemon declines, so does system stability.
+
+## Neoliberal institutionalists think the problem is not polarity but institutions.
+
+The international system is anarchic, but cooperation may emerge through institutions.
+
++ Institutions may be created from self-interest.
+
++ Repeated interactions provide the motivation for states to create international institutions.
+
++ Institutions can moderate state behavior and provide a framework for coordination and cooperation.
+
+## Constructivists think international outcomes cannot be explained by structures alone.
+
+Power and anarchy matter, but their meanings change over time. “Anarchy is what states make of it.”
+
++ International structures are socially constructed; neither sovereignty nor balance of power objectively exist.
+
++ We can understand international order only by looking at states’ ideas, identities, and interactions.
+
+
+

@@ -2,559 +2,379 @@
 
 ## Part I. Multiple-Choice {-}
 
-I will update it after the 6th pop quiz.
+I will pick 13 MC quizzes from here.
 
 ----
 
-1. The textbook distinguishes between the types of dictatorships based on:
+1. Which of the following is true of the Treaties of Westphalia?
 
-    A. size of the country
+    A. They sought to break up permanent national militaries, giving rise to the Thirty Years’ War.
 
-    B. title of the leader
+    B. They made sure that no state or states could dominate the system after the Thirty Years’ War.
 
-    C. identity of their support coalitions
+    C. They created formal international institutions to maintain the balance of power after the Thirty Years’ War.
 
-    D. type of election
+    D. They codified the rights of states to determine their own domestic policies after the Thirty Years’ War
 
-2. The three basic types of authoritarian regime outlined in the textbook include all of the following EXCEPT:
+2. Traditionally, international relations scholars trace the origin of the modern state system to which event?
 
-    A. monarchies.
-
-    B. oligarchies.
-
-    C. military.
-
-    D. civilian.
+    A.	The end of World War II
     
-3. Presidents are
-
-    A. never have term limits.
-
-    B. are more likely to have term limits than prime minister.
-
-    C. are less likely to have term limits than prime minister.
-
-    D. are equally as likely to have term limits as prime minister are.
-
-4. What is (are) the key difference(s) between majoritarian and proportional representation (PR) electoral systems?
-
-    A. In majoritarian systems, the winning candidate(s) must win a majority or plurality of the vote, whereas this is not necessary in PR systems.
-
-    B. PR systems use large district magnitudes or two-round systems in single districts to elect candidates.
-
-    C. All of these are differences between majoritarian and PR systems.
+    B.	The fall of the Roman Empire
     
-5. In countries with semi-presidential systems
-
-    A. the president is elected directly by voters.
-
-    B. the prime minister and the president are directly elected by the voters
-
-    C. the prime minister is elected directly by voters.
-
-    D. the president is elected by the Parliament.
-
-6. An overview of a variety of studies about the link between regime type and economic growth should lead one to the following conclusion:
-
-    A. Democracy is better for growth than dictatorship.
-
-    B. Dictatorship is better for growth than democracy.
-
-    C. Regime type makes no difference.
-
-    D. There are some empirical studies that support each of the conclusions listed in (a)–(c), above. In part, this variation in conclusions is likely to be the result of the different datasets used across the analyses.
+    C.	The Treaties of Westphalia
+    
+    D.	The Great Depression
+    
+    E.	None of the above.
 
-7. Those dictators that hold elections and tolerate some degree of pluralism yet violate democratic standards are called: 
+3. What best summarizes Adam Smith’s contribution to economic theory in the 1700s? 
 
-    A. electoral authoritarian.
+    A.	Smith argued in favor of government regulation of the economy.
+    
+    B.	Smith believed that the Treaties of Westphalia would bring renewed economic prosperity.
     
-    B. democratic pluralism.
+    C.	Smith introduced the concept of ‘Comparative advantage,’ meaning an economy's ability to produce a particular good or service at a lower opportunity cost than its trading partners. 
     
-    C. liberal democracy.
+    D.	Smith united two key concepts: division of labor as a motor for generating prosperity, and market systems based on self-interest as a fuel for that motor.
     
-    D. pluralist dictatorship.
+    E.	None of the above.
 
-8. In the country of Qatar, the successor to the king is selected by the ruling family by consensus based on their own best interests.  Based on this information, Qatar can be labeled a:
+4. Which of the following is true of the core group of European states that dominated from the end of the Treaties of Westphalia to the beginning of the nineteenth century?
 
-    A. monarchy.
+    A. All the core states experienced an economic revival because they were democracies.
 
-    B. military dictatorship.
+    B. None of the core states experienced an economic revival, as liberal capitalism failed at the time.
 
-    C. dominant-party dictatorship.
+    C. Only the core states in Western Europe (England, France, and the United Provinces) experienced an economic revival because they were democracies.
 
-    D. personalistic dictatorship.
+    D. The core states in Western Europe (England, France, and the United Provinces) experienced an economic revival under liberal capitalism.
     
-9. Dictatorships that do not rely on either the support of the military or a ruling family or kin network are called:
+    E. None of above.
 
-    A. monarchies.
+5. As part of the nineteenth-century balance-of-power system in Europe, 
 
-    B. military dictatorships.
+    A. independent states balanced colonies of relatively equal power.
 
-    C. civilian dictatorships.
+    B. treaties were designed to create the emergence of a hegemon.
 
-10. The most common form of dictatorship from 1946 to 2008 has always been:
+    C. alliances were formed to counteract potentially more powerful factions.
 
-    A. monarchies.
-    
-    B. military dictatorships.
-
-    C. civilian dictatorships.
+    D. agricultural elites balanced against urban factory owners.
 
-11. The Communist Party in the former Soviet Union is an excellent example of this type of regime:
-
-    A. democracy.
-    
-    B. monarchy.
-    
-    C. military dictatorship.
-    
-    D. personalistic dictatorship.
-    
-    E. dominant-party dictatorship.
+6. What is true about industrialization and political power in Europe in the 1800s?
 
-12. Dominant-party dictatorships rely on the following to stay in power:
+    A.	Industrialization did not occur in such places as England and Germany.
     
-    A. controlling the military.
+    B.	Wealthy landowners gained more power from industrialization.
     
-    B. tying monetary and nonmonetary benefits to membership in the party.
+    C.	Industrialization favored the middle classes at the expense of aristocrats.
     
-    C. restricting the ability off opposition parties to effectively compete .
+    D.	Farmers gained political power at the expense of factory workers.
     
-    D. only B and C.
-    
-    E. all of these.
-
-13. Personalistic dictatorships are often characterized by which of the following?
-
-    A. strong parties, strong militaries, and weak leaders
+    E.	None of the above
 
-    B. free press, competitive elections, and multipartism
+7. Assuming a state is a(n) __________ means that it has its own defined interests and chooses its own actions, whereas assuming a state is a(n) __________ means that it makes decisions by weighing the costs and benefits of various options.
 
-    C. weak press, strong secret police, and arbitrary uses of force
+    A.	irrational actor; rational actor
 
-14. Personalistic dictators rely on ______ to maintain the loyalty of their support coalition and the citizenry more generally.
-
-    A. cult of personality
-
-    B. strong parties
-
-    C. free media
-
-    D. supportive military
-
-15. The difference between hegemonic electoral authoritarian regimes and competitive authoritarian regimes is that:
-
-    A. the former is where the major party wins only half the time and the latter is where the major party wins the vast majority of the time.
-    
-    B. the former is where the opposition parties win substantial minorities and the latter is where opposition parties often win in presidential elections.
+    B.	unitary actor; irrational actor
     
-    C. the former is where the leader’s party wins with overwhelming majorities and the latter is where the opposition parties win substantial minorities in elections.
+    C.	rational actor; unitary actor
     
-    D. none of these
+    D.	unitary actor; rational actor 
 
-16. What is the basic assumption behind the selectorate theory?
+8. Which of the following illustrates the security dilemma?
 
-    A. That dictators care more about staying in power than democratic leaders do.
-    
-    B. That dictators use elections to discourage internal rivals from attempting coups.
-    
-    C. That all political leaders are motivated by the desire to gain and maintain office.
-    
-    D. All of these are important assumptions of the selectorate theory.
+    A. India and Pakistan will not cooperate since they have relatively little to gain from doing so.
 
-17. According to BDM's Selectorate theory, what is the winning coalition?
+    B. India’s increase in its nuclear arms led Pakistan to be less secure, leading Pakistan to increase its arms as well.
 
-    A. The party that wins.
-    
-    B. The government coalition that wins.
+    C. India and Pakistan are likely to cooperate only when one is more powerful than the other.
+
+    D. If India attacked Pakistan, other states will come to Pakistan’s aid.
     
-    C. The group of people who keep the leader in power.
+    E. None of above.
     
-    D. The group of people who can select the leader.
+9. Conceptualizing international relations as a “system” suggests that
+
+    A. states and other relevant actors are automatons that lack the capacity to change.
     
-    E. The group of people who actually selected the leader.
+    B. there are no regular patterns to international affairs.
 
+    C. actors involved in international relations interact with each other in regularized ways.
 
-18. If you were the leader, what type of institutions would you want to set up (assuming that you wanted to stay in power)?
+    D. you can only study the whole of international politics at once and not focus on individual actions.
 
-    A. Institutions that would generate a small W and a small W/S.
+10.	Which of the following is true of a bipolar system?
 
-    B. Institutions that would generate a small W and a large W/S.
+    A.	International organizations are likely to be ineffective because they cannot direct the behavior of either of the poles.
 
-    C. Institutions that would generate a large W and a large W/S.
+    B.	Alliances are fluid to preserve the relative balance.
 
-    D. Institutions that would generate a large W and a small W/S.
+    C.	Constructivists focus on the importance of the bipolar system but not the others.
 
-19. If you were a member of the winning coalition, what type of institutions would you want to set up (assuming that you wanted to receive as many goods as possible)?
+    D.	Neo-realists think that bipolar systems are the least stable.
 
-    A. Institutions that would generate a small W and a small W/S.
+    E.	None of above.
 
-    B. Institutions that would generate a small W and a large W/S.
+11. Which of the following is a norm of the balance-of-power (multipolar) system?
 
-    C. Institutions that would generate a large W and a large W/S.
+    A. Alliances are formed for a specific purpose and a short duration and shift according to advantage.
 
-    D. Institutions that would generate a large W and a small W/S.
+    B. Alliances should be fixed.
 
-20. If you were a member of the selectorate but not the winning coalition, what type of institutions would you want to set up (assuming that you wanted to receive as many goods as possible)?
+    C. States should align together based on their economic system.
 
-    A. Institutions that would generate a small W and a small W/S.
-    
-    B. Institutions that would generate a small W and a large W/S.
+    D. Some states are ruled out as potential allies.
     
-    C. Institutions that would generate a large W and a large W/S.
-    
-    D. Institutions that would generate a large W and a small W/S.
 
-21. What set of institutions makes kleptocracy most likely?
+12.	The idea that informal meetings, such as the one between heads of state Chancellor Angela Merkel of Germany and Prime Minister Narendra Modi of India at Merkel’s country retreat in 2017, can help to foster cooperation between those states is an argument consistent with
 
-    A. a large W/S and a small W
-    
-    B. a small W/S and a small W
-    
-    C. a large W/S and a large W
+    A.	The Beijing Consensus
 
-22. What is the fundamental implication of Arrow’s theorem?
+    B.	The concept of complex interdependence
 
-    A. No alternative can beat the one preferred by the median voter in pair-wise majority-rule elections if the number of voters is odd, voter preferences are single-peaked over a single policy dimension, and voters vote sincerely.
-    
-    B. If there are two or more issue dimensions and three or more voters with preferences in the issue space who all vote sincerely, then it is likely (except in very extreme case) that there will be no Condorcet winner.
-    
-    C. There is no possible decision-making rule satisfying a minimal standard of fairness that is guaranteed to produce a rational decision for a group.
+    C.	The concept of the democratic peace
 
-23. When we talk about “the government” in terms of distinguishing parliamentary, presidential, and semi-presidential systems (e.g., when we say that the government depends on the legislative majority as well as the president in a mixed system) we mean: 
+    D.	The Washington consensus
 
-    A. the state.
+13.	The fact that, after being labeled as a member of the “axis of evil” by the U.S. president, Iran changed its policies from working with the United States post–September 11, 2001, to working against it best exemplifies the
+
+    A.	realist argument that interests do not matter.
     
-    B. all of the elected officials in a country.
+    B.	constructivist argument that discourse can change state behavior.
     
-    C. the cabinet (made up of the prime minister and the other ministers).
+    C.	liberal argument that complex interdependence takes a long time to foster cooperation.
     
-24. If the opposition in the legislature proposes a vote on whether or not the current government should stay in power, then this is an example of: 
+    D.	dependency theorists’ argument that the more powerful developing countries will never allow themselves to be dominated by developed countries.
+
+14. According to constructivists,
 
-    A. an investiture vote.
+    A. systems are set by material structures alone.
     
-    B. a no confidence vote.
+    B. systems are unchanging over time.
     
-    C. a sincere vote.
+    C. anarchy can lead to different outcomes at different times.
     
-    D. a strategic vote.
+    D. stratification structures systems.
+    
+15.	After having been defeated in World War I, Germany rose in power and almost achieved parity with France and Britain. That this led Germany to act militarily to secure its new position in the international system would be an argument made by a
 
-25. Which of the following statements best describes a vote of confidence?
+    A.	neorealist
 
-    A. A new government must pass a vote (on the cabinet's composition and proposed policies) in the legislature before it can take office.
-    
-    B. A government declares that a vote on a particular piece of legislation is also a vote of support for the government itself; if the legislators do not support the legislation, then the government will resign (and new elections might result).
-    
-    C. A group of legislators propose a vote on the support of the incumbent government. If the government passes the vote, then it stays in office. If it fails the vote, then it must resign (and new elections might result).
+    B.	power balancing theorist
 
-26. In which system(s) is the government not responsible to the legislature?
+    C.	power transition theorist
 
-    A. in a parliamentary regime
-    
-    B. in a presidential regime
-    
-    C. in a semi-presidential regime
-    
-    D. all of these
-    
-27. In which system(s) is the government responsible to the legislature but not the president?
+    D.	hegemonic stability theorist
 
-    A. in a parliamentary regime
-    
-    B. in a presidential regime
-    
-    C. in a semi-presidential regime
-    
-    D. all of these
+    E.	dependence theorist
 
-28. In which system(s) is the government responsible to the legislature and the president?
+16. Which of the following statements is true of the study of individuals in international relations?
 
-    A. in a parliamentary regime
-    
-    B. in a presidential regime
+    A. Realists believe the individual is the most appropriate level of analysis.
     
-    C. in a semi-presidential regime
-    
-    D. all of these
+    B. Even individuals who are not state leaders can have a significant influence on war and peace.
 
-29. In a semi-presidential regime, who is the primary political actor during periods of cohabitation?
+    C. The extent to which individuals matter is the same across all IR theories.
 
-    A. the president
-    
-    B. the prime minister
-    
-    C. Both, depending on the issue–prime minister has more control over domestic politics, but president still has a role in foreign policy.
+    D. There is no empirical evidence that individual leaders and their personal characteristics make a difference in foreign policy.
 
-30. If politicians are purely office seeking, what type of government would they prefer to form?
+17.	Which of the following is true of the role of individuals in foreign policy making? 
 
-    A. connected coalition
+    A.	Public opinion is not likely to influence foreign policy.
     
-    B. surplus majority government
+    B.	Non-elite individuals can and do sometimes play key roles in foreign policy making.
     
-    C. connected minimal winning coalition
+    C.	The personality characteristics of individual leaders cannot matter in democracies because they must answer to the public.
     
-    D. minimal winning coalition
-
-    E. least minimal winning coalition
-
-31. According to Lijphart (2012), which of the following is not correct to define joint-power dimension?
-
-    A. Concentration of power in single-party majority cabinets versus executive power-sharing in broad multiparty cabinets.
+    D.	The mass public cannot influence foreign policy through direct actions.
+    
+    E.	None of the above.
 
-    B. Executive-legislative relationships in which the executive is dominant versus executive-legislative balance of power.
+18. The “two-level game” of international negotiation refers to 
 
-    C. Flexible constitutions amendable by simple majority versus rigid constitutions amendable only by extraordinary majorities.
+    A. the fact that states must often negotiate not only with an opponent state, but third-party states as well.
 
-    D. Two-party versus multi-party systems
+    B. the fact that bargaining occurs between states as well as between state negotiators and their various domestic constituencies.
 
-    E. Pluralist interest group systems with free-for-all competition among groups versus coordinated and “corporatist” interest group systems aimed at compromise and concertation.
+    C. when diplomatic negotiations are coupled with economic statecraft.
 
-32. According to Lijphart (2012), which of the following is not correct to define divided-power dimension?
+    D. the use of a mediator in negotiations.
 
-    A. Unitary and decentralized government versus federal and decentralized government.
+19.	Liberals view the two-level game of international negotiations as 
 
-    B. Concentration of legislative power in a unicameral legislature versus division of legislative power between two equally strong but differently constituted houses.
+    A.	highlighting the importance of domestic politics in international relations.
+    
+    B.	showing that domestic politics is not important in international relations.
+    
+    C.	being constrained by the structure of the international system.
+    
+    D.	showing that the structure of the international system is not important in international relations.
 
-    C. Majoritarian and disproportional electoral systems versus proportional representation.
+20. Which of the following is true of the realist view of diplomacy?
 
-    D. Legislatures that decide on the constitutionality of laws versus constitutional review by courts
+    A. Realists believe that diplomacy is the most effective tool of statecraft.
+    
+    B. Realists believe that diplomacy is likely to be ineffective without being backed by economic statecraft or force.
 
-    E. Central banks dependent on the executive that decide on the constitutionality of laws versus independent central banks.
+    C. Realists believe that public diplomacy can be effective, but not Track Two diplomacy.
 
-33. Single-member district plurality (SMDP) systems are sometimes criticized because they:
+    D. Realists believe that diplomacy is effective only if coupled with deterrence.
 
-    A. do not allow voters to hold their representatives accountable very easily.
-    
-    B. can produce very unrepresentative electoral outcomes at the district level.
+21. What is one characteristic necessary for international relations scholars to define something as a war?
 
-    C. both (A) and (B) are common criticisms of SMDP systems.
+    A. There is random violence.
 
-34. Which type of party list gives the most power to the party leadership (over the individual candidates)?
+    B. At least three countries are fighting.
 
-    A. closed party list
+    C. A clear victor emerges.
     
-    B. open party list
+    D. At least 1,000 deaths occur in a calendar year.
     
-    C. free party list
+22. A key characteristic of all forms of terrorism is that 
 
-35. What is a mixed electoral system?
-
-    A. It is when the government depends on the legislature and the president.
+    A. they are carried out only in the Middle East.
     
-    B. It is when you have districts that elect different numbers of people.
+    B. they are religious in nature and intent.
     
-    C. It is when the electoral system uses both a majoritarian formula and a proportional formula.
+    C. they are a very recent form of warfare.
     
-    D. It is when you have multimember districts.
+    D. their essence is psychological, not physical.
     
-    E. It is when the winning candidate must win a majority or plurality of the vote.
-
-36. The electoral system used for legislative elections (for the House of Representatives) in the United States is:
+23.	Unconventional Warfare does not include which of the following
 
-    A. single-member district plurality.
-    
-    B. two-round system.
-    
-    C. list PR.
+    A.	Terrorism
     
-    D. single nontransferable vote.
-
-37. What is measured by “district magnitude”?
-
-    A. the number of voters in a district
+    B.	Cyber attacks
     
-    B. the geographic size of the district
+    C.	Guerilla tactics
     
-    C. the number of seats in a district
+    D.	Bombing Raids
     
-    D. the relative importance of the district
-
-38. Which of the following is not correct for the main purposes of political parties?
+    E.	Weapons of mass destruction
 
-    A. They structure the political world.
+24.	According to constructivists, wars occur because
 
-    B. They recruit and socialize the political elite.
-
-    C. They mobilize the masses.
+    A.	some state’s identities and interests lead them to be aggressive.
     
-    D. They make politicians more diciplined and responsible.
-
-    E. They provide a link between the rulers and the ruled.
-
-39. Which of the following parties is correct for the blanks in the Figure below?
-
-    A. (1) New politics party - (2) Party of mass integration - (3) Catch-all party - (4) Programmatic party - (5) Patronage-oriented party
-
-    B. (1) Catch-all party - (2) Programmatic party - (3) Party of mass integration - (4) Patronage-oriented party - (5) New politics party
-
-    C. (1) Catch-all party - (2) Programmatic party - (3) Patronage-oriented party - (4) Party of mass integration - (5) New politics party
-
-    D. (1) Catch-all party - (2) Programmatic party - (3) Patronage-oriented party - (4) New politics party - (5) Party of mass integration
-
-
-
-40. Imagine a country with an ethnically heterogeneous population. The different ethnic groups are geographically clustered so that if you consider particular areas of the country in isolation, they have relatively homogeneous populations. If such a country were to adopt a federal system, which type of federalism would you expect it to adopt?
-
-    A. congruent and symmetric
-
-    B. congruent and asymmetric
-
-    C. incongruent and symmetric
-
-    D. incongruent and asymmetric
-
-41. According to the veto player theory, which following is not correct?
-
-    A. Veto player theory shows that an increase in the number of veto players decreases the size of the winset or leaves it the same; it never increases the size of the winset.
+    B.	of the distribution of power.
     
-    B. Veto player theory shows that an increasing the ideological distance between veto players always shrinks the size of the winset.
-
-    C. When the winset is small, policy stability is low because there are more policy alternatives that can defeat the status quo.
-
-    D. When the winset is large, the possibility arises for more radical shifts in policy.
-
-42. In which of the following types of democracies would it be easier to change the current constitution?
-
-    A. in a country with an entrenched constitution
+    C.	state’s are not interdependent.
     
-    B. in a country with an unentrenched constitution
+    D.	of the security dilemma.
+    
+    E.	None of above
 
-43. Veto player theory suggests that countries containing many veto players with conflicting policy preferences are likely to be characterized by:
+25.	Which of the following was not an example used in class for why Civil Wars occur?
 
-    A. greater policy stability.
-    
-    B. smaller shifts in policy.
+    A.	The size of the country
     
-    C. less variation in policy shifts.
+    B.	Whether or not the country is an oil exporter
     
-    D. weaker agenda-setting powers.
+    C.	Population	
     
-    E. all of these are characteristics likely to occur in such a situation.
+    D.	Geographic features
     
-44. The discussion of federalism contains a distinction between *de facto* federalism and *de jure* federalism. The latter is referred to as “federalism in structure.” To be classified as federal in structure, what features must a country have?
+    E.	Lack technological advancement
 
-    A. A unitary state.
-    
-    B. Constitutionally regional governments that cannot be unilaterally abolished by the national government. Both the regional and the national government govern their own citizens directly, and both have independent bases of authority.
-    
-    C. A bicameral legislature, in which legislative deliberations occur in two distinct assemblies.
+26. Which of the following is a key characteristic of the anarchic international system in relation to realists’ understanding of war?
 
-    D. devolution
+    A. Anarchy has led nondemocracies to become more prevalent than democracies, and nondemocracies are more aggressive than democracies.
 
-45. Is the incentive to vote strategically higher or lower when the district magnitude is large?
+    B. Under the condition of anarchy there are few rules about how to decide among contending claims and no effective arbiter to do so, and this can lead to war.
 
-    A. higher
+    C. Anarchy leads states to have weak armies, so they are attacked by terrorists.
 
-    B. lower
+    D. Realists do not believe that war is the result of the anarchy of the international system.
 
-    C. the same
+> Also, you should read Snyder (2009) and Keohane and Martin (1995).
 
 ## Part II. True/False Question {-}
 
-I will update it after the 6th pop quiz.
+I will pick 5 T/F quizzes from here.
 
 ----
 
-1. Which policies are likely to be unpopular with the general public in the short term, those that promote immediate consumption (spending) or those that promote investment?
-
-    A. Policies that promote immediate consumption.
-
-    B. Policies that promote investment.
-
-2. If a country has an independently elected president, then we necessarily consider it to be a presidential regime.
-
-    A. True
-
-    B. False
-    
-3. A one-party dominant system has only one legal party.
-
-    A. True
-
-    B. False
-    
-4. We can describe the property rights story for the relationship between democracy and economic growth as below:
-
-    > "Democracies have higher economic growth because they are characterized by the rule of law and the protection of property rights."
+1. As long as a state has the incentive to carry out a threat, that threat is credible even if the state does not have the ability to follow through.
 
     A. True
     
     B. False
     
-5. Military dictatorships often claim the “guardians of the national interest:”
-
-    A. True
-    
-    B. False
-    
-6. To stay in power, leaders must keep members of their winning coalitions happy.
+2. The wars that followed the Arab Spring in 2011 are not categorized as civil wars because the government had significantly more capacity to harm the rebels than the rebels had to harm the government.
 
     A. True
     
     B. False
 
-7. If a voter chooses an alternative that is not her most preferred one because by doing so she can produce a more preferred final outcome than might otherwise be the case, then she is engaging in:
+3. Formal organizations, such as the United Nations and the North Atlantic Treaty Organization, and treaties such as the Law of the Sea Treaty are all examples of international institutions.
 
-    A. sincere voting.
+    A.	True
     
-    B. strategic voting.
+    B.	False
 
-8. It is always the case that a researcher can determine how centralized a country is by looking at its constitution.
+4. Great-power competition characterized Europe in the nineteenth century and the relationship between the United States and Soviet Union during the Cold War, but in the twenty-first century, great-power competition is no longer relevant.
 
-    A. True
-
-    B. False
+    A.	True
     
-9. In disproportional electoral systems, the mechanical effect rewards large parties and punishes small ones.
+    B.	False
 
-    A. True
+5. An international institution can refer to a formal organization or to a treaty.
 
-    B. False
-
-10. In which of the following types of democracies would it be easier to change the current constitution?
-
-    A. in a country with an entrenched constitution
-
-    B. in a country with an unentrenched constitution
+    A.	True
     
-## Part III. Fill-in-the-blank {-}
+    B.	False
 
-1. <mark>A personalist dictatorship</mark> is one in which the leader, although often supported by a party or the military, retains personal control of policy decisions and the selection of regime personnel.
+6. Following the creation of the Nuclear Nonproliferation Treaty, several states that previously had nuclear weapons dismantled their programs.
 
-2. <mark>The dictator’s dilemma</mark> is that he relies on repression to stay in power, but this repression creates incentives for everyone to falsify their preferences so that the dictator never knows his true level of societal support.
+    A.	True
+    
+    B.	False
 
-3. <mark>The selectorate</mark> is the set of people who can play a role in selecting the leader. 
+7. Great-power competition characterized Europe in the nineteenth century and the relationship between the United States and Soviet Union during the Cold War, but in the twenty-first century, great-power competition is no longer relevant.
 
-4. <mark>The winning coalition</mark> includes those people whose support is necessary for the leader to stay in power.
+    A.	True
+    
+    B.	False
 
-5. <mark>A strategic vote</mark> is a vote in which an individual votes in favor of a less preferred option because she believes doing so will ultimately produce a more preferred outcome. 
+8. Constructivists like Alexander Wendt argue that knowing the distribution of material capabilities in the international system is enough to predict whether two states will be friends or foes.
 
-6. <mark>A sincere vote</mark> is a vote for an individual’s most preferred option.
+    A.	True
+    
+    B.	False
 
-7. <mark>An indifference curve</mark> is a set of points such that an individual is indifferent between any two points in the set.
+9. In bipolar systems, alliances are long-term relationships based on interests, whereas in multipolar balance-of-power systems, alliances are short-term relationships formed for a specific purpose.
 
-8. <mark>The winset</mark> of some alternative *z* is the set of alternatives that will defeat *z* in a pair-wise contest if everyone votes sincerely according to whatever voting rules are being used.
+    A.	True
+    
+    B.	False
 
-9. <mark>Legislative responsibility</mark> refers to a situation in which a legislative majority has the constitutional power—a vote of no confidence—to remove a government from office without cause.
+10. Globalization has promoted both cultural homogenization and differentiation.
 
-10. <mark>A political party</mark> can be thought of as a group of people that includes those who hold office and those who help get and keep them there.
+    A.	True
+    
+    B.	False
 
-## Part IV. Short answers {-}
+## Part III. Short answers {-}
 
-> Short answers should be written in *short* and *clear*. I will pick two from here.
+> Short-Answer Question Response: *Define* and *explain* the significance of the following terms. Your answers *should be concise* – typically requiring *no more than three sentences*. 
 
-1. Explain the implication of redistribution from the median voter theorem and suggest at least one of the possible critiques against it.
+> You should answer five of the eight questions below:
 
-2. When the winning coalition's size is small, which incentives do the leaders have for resource allocation? Why?
+----
 
-3. According to the selectorate theory, when are the members of the winning coalition likely to have the highest loyalty to their leader? Why?
+1. <mark>Polarity</mark>
 
-4. According to the logic of the median voter theorem, where should we expect candidates (or parties) to locate in the policy space in two-candidate (or two-party) races? Why?
+2. <mark>Anarchy</mark>
 
-5. Explain the pros and cons of majoritarian and consensus democracies that Lijphart (2012) suggest.
+3. <mark>Complex interdependence</mark>
 
-6. Explain how low income class influences government policy based on power resource theory.
+4. <mark>Levels of analysis</mark>
 
-7. Explain the two effects of electoral laws based on Duverger's theory.
+5. <mark>Security dilemma</mark>
 
-8. Explain how the size of winset affects the variance in the size of policy shifts. You can draw a picture.
+7. <mark>Collective security</mark>
+
+8. <mark>Treaties of Westphalia</mark>

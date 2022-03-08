@@ -1,1 +1,151 @@
 # Grand Theories
+## Realism and Neo-realism
+
+A paradigm based on the premise that world politics is essentially and unchangeably a struggle among self-interested states for power and position under anarchy, with each competing state pursuing its ownnational interests.
+
+### Assumptions
+
+*Key words*: Anarchy, States, Survival (Security), National interests, Self-help, (Alliances)
+
+### Political Realism
+
+Hans Morgenthau
+
++ Just as for Thucydides, Augustine, and Hobbes, international politics is best characterized as a struggle for power: **international self-help system**
+
++ Power is the most important currency in international politics both to take from others and to prevent the inevitable effort by others to steal.
+
++ Emphasized **relative gains, security dilemma, power**, and **diplomacy**.
+
++ Criticism: 
+
+  + Human nature is a constant, not a variable.
+  
+  + It is almost impossible to observe innate conflict in men.
+  
+### Structural (Neo-) Realism
+
+Kenneth Waltz’s neorealism (or structural realism) proposes structural characteristics of the international system as main explanatory factors. System structure and the distribution of power, rather than the characteristics of states, determine outcomes.
+
+#### Anarchy
+
+#### Distribution of power (polarity): unipolar, bipolar, multipolar
+##### Descripton
+The number of states -- one(unipolar), two(bipolar), three(tripolar), or more(multipolar) -- holding significant power in the international system.
+
+  1. Unipolar, where one state in the system has sufficient power to defeat all the others combined against it.
+  
+  2. Bipolar, where most of the system’s power is divided between two states or coalitions of states
+  
+  3. Multipolar, in which power is divided among three or more states or coalitions of states. 
+
+##### Significance
+It describes the nature of the international system at any given period of time.
+
+### Power Transition Theory
+Does not assume anarchic international system. PTT Focuses on differential growth rates and their effect on altering relative power between nations, resulting in new relationships among nations or competing groups and the formation of new political and economic entities.
+
+## Liberalism and Neo-liberal Institutionalism
+
+A paradigm predicated on the hope that the application of reason and universal ethics to international relations can lead to a more orderly, just, and cooperative world.
+
+### Assumptions
++ Do not assume states as unitary actors (state actor < non-state actor) and 'perfectly' rational actors. 
+
++ Also, (classical) liberalism reject the impact of anarchic international system.
+
++ Emphasizes interdependence and cooperation among transnational actors (states + non-states)
+
+
+
+
+
+
+### Liberal idealism (Classical liberalism)
+
+Advocates creating global institutions to contain the raw struggle for power between self-serving, mutually suspicious states.
+
+#### Collective Security.
+
+A security regime agreed to by the great powers that sets rules for keeping peace, guided by the principle that an act of aggression by any state will be met by a collective response from the rest.
+
+#### Limitations
+
+Classical liberalism overlooked the influence of international anarchic system. Also, it appealed to the human community's moral spirit to solve the problem of cooperation. Furthermore, it does not value the role of the state (state < individuals). Classical liberalism does not have clear answer for security issue.
+
+### Democratic Peace Theory
+
++ Democratic political cultures and system avoid lethal force as a means of settling disagreements. 
+
++ Conflict-resolution practices used at home (domestically) can also be used when dealing with international disputes. 
+
++ eaders socialized within democratic cultures share a common outlook, applying democratic norms (based on tolerance, compromise, and civil liberties) to regulate international competition. 
+
++ Diplomacy provides a means for achieving mutually acceptable solutions to a common problem, and enables leaders to negotiate and compromise <u>in a peaceful manner.
+
+  + Diplomacy: Communication and negotiation between global actors that is not dependent upon the use of force and seeks a cooperative solution
+
+### Neoliberal Institutionalism
+
+The “new” liberal theoretical perspective that accounts for the way international institutions promote global change, cooperation, peace, and prosperity through collective programs for reforms.
+
+Neoliberal institutionalism share an interest in probing the conditions under which the convergent and overlapping interests among otherwise independent transnational actors may result in **cooperation**.
+
+#### Assumptions
+
+**Cooperation** emerges not as a result of humanity’s desire for positive change but as a result of self-interest.
+
++ States are unitary rational actors that pursue self-interest.
+
++ Despite the existence of anarchy, interstate cooperation can arise as states focus on absolute gains.
+
+Neoliberal institutionalists arrive at the same prediction that other liberals do&mdash;cooperation&mdash;but their explanation for why cooperation occurs is different.
+
++ International institutions and reciprocity foster **cooperation**.
+
++ **Should read Keohane and Martin (1995)!**
+
+## Constructivism
+
+A paradigm based on the premise that world politics is a function of the ways that states construct and then accept images of reality and later respond to the meanings given to power politics.
+
++ State behavior is shaped by elite beliefs, identities, and social norms.
+
++ Individuals forge, shape, and change culture through ideas and practices.
+
++ Interests at all levels are **socially constructed** via **constant interaction**.
+
++ National interests are ever-changing and the result of social identities of state actors.
+
++ People and their discourse bring meaning to material structures.
+
++ International organizations can socialize states and individuals to norms.
+
+### Wendt (1991)
+
+The meaning of anarchy can be either conflictual or cooperative, depending on underlying shared knowledge (e.g. anarchy among allies vs. anarchy among enemies).
+
+## Key Concepts
+### Security Dilemma
+#### Description
+The situation that states face when they arm to defend themselves and, in the process, threaten other states.
+#### Significance
+The most important source of conflict between states.
+
+### Institutions
+#### Description
++ The formal and informal rules that organize social, political and economic relations.
+
++ Set of implicit or explicit principles, norms, rules, and decision-making procedures around which actors' expectations converge.
+
+#### Significance
+A key structure that makes states cooperate even under the anarchic system and uncertainties.
+
+### Complex interdependence
+#### Description
+States are connected through .multiple channels.
+
+#### Significance
+As security is not the only concern, when the complex interdependence increases, it is more likely to decline in the use of military force.
+
+

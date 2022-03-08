@@ -1,0 +1,100 @@
+# War and Conflict
+## Different types of war
+
++ War
+
+  + Conventional
+  
+  + Unconventional
+  
+    + Guerilla Warfare
+
+    + Terrorism
+    
+    + WMD
+
+## What is War?
+
+An organized and deliberate political act by an established political authority that causes 1,000 or more deaths in a 12 month period and involves at least two actors capable of harming each other.
+
+There are two or more organized groups and these groups are engaged in intense hostilities. No party to the conflict and no third party has the authority and ability to effectively adjudicate between the opposing sides, punish them, and otherwise maintain
+effective control in the arena of the conflict.
+
+## Why Does the War Occur?
+### Realist Explanations
++ War happens because nothing is there to stop it
+
++ Distribution of Power
+
+### Liberalist Explanations
++ No shared values/norms
+
++ Not democratic (democratic peace theory)
+
++ Lack of interdependence
+
+### Constructivist Explanations
++ States have identities and interests that may be
+aggressive
+
++ Prior interactions matters
+
++ Nationalism and divergent identities
+
+## Rationalist Explanation of War
+### Fearon (1995) and POWELL (2006)
+
++ War as an indivisible
+
++ War as a commitment problem
+
++ War as a private information problem
+
+### Gartzke (1999)
+
++ War is in the error term
+
++ *Ex ante* vs *ex poste*
+
++ War is random = difficult to predict.
+
+## Preventing Wars
+### Realists: Power balancing and deterrence
+### Liberalists: Collective security, and arms control and disarmament
+### Constructivists: Spread social norms and socialize to change identities
+
+## Why do states obtain nuclear weapons?
+
+1. External determinants
+
+2. Domestic determinants
+
+3. Prestige
+
+4. Hymans (2006)
+
+## What Makes Civil Wars?
+
++ Population (Sambanis 2001, Anyanwu 2002, Collier and Hoeffler 2002a, 2004b, Elbadawi and Sambanis 2002)
+
++ Diversity at medium levels (ethnic, linguistic and religious) (Ellingsen 2002, Caprioli 2003 and 2005)
+
++ Geography (proximity to other states at war) (Sambanis, 2006, Gleditsch, 2007, Salehyan, 2006)
+
++ Size of country, mounains (Buhang, 2006)
+
++ Oil exporters (Krause and Suzuki, 2005, Buhang, 2006, Ross 2006)
+
+## Outcomes of Civil Wars
+
+State capacity matters but we don’t know how.
+
++ More capacity = more probability of victory (Bapat 2005, Mason et al, 1999, Brandt et al, 2008)
+
++ More capacity = less likely victory (Balch-Lindsey et all, 2008, DeRouen and Sobek, 2004)
+
+Foreign Interventions matter.
+
++ Foreign assistance to insurgents is one of the strong predictors of their success (Svensson, 2007, Balch-Lindsay et all, 2008, Lyall and Wilson, 2009, Thyne, 2009, Lyall, 2010b).
+
+“The biggest gap we have identified in our collective understanding of the factors affecting who wins Civil Wars is the lack of comprehensive conclusions connecting COIN strategies on the ground with conflict outcomes” (Stojeck and Sullivan, 2013)
