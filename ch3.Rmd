@@ -129,6 +129,7 @@ The meaning of anarchy can be either conflictual or cooperative, depending on un
 ### Security Dilemma
 #### Description
 The situation that states face when they arm to defend themselves and, in the process, threaten other states.
+
 #### Significance
 The most important source of conflict between states.
 
