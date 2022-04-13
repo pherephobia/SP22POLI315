@@ -7,7 +7,7 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">A Midterm Study Guide for POLI315</a></li>
+        <li><a href="./">A Final Study Guide for POLI315</a></li>
       after: |
         <li><a href="https://github.com/pherephobia/SP22POLI315/" target="blank">Published with bookdown</a></li>
     download: ["pdf", "epub"]

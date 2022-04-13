@@ -42,9 +42,9 @@ library(tidyverse)
 final <-
   tibble(
     Type = c("Multiple Choices", "T/F", 
-             "Short answers", "Total"),
-    Number = c(15, 15, 2, 32),
-    `Point for individual question (pt)` = c(3, 3, 5, NA),
+             "Short Essay", "Total"),
+    Number = c(15, 15, 1, 31),
+    `Point for individual question (pt)` = c(3, 3, 10, NA),
     `Sum (pt)` = c(45, 45, 10, 100)
   )
 
