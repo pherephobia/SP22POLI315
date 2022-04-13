@@ -1,0 +1,435 @@
+# The Politics of Trade
+## Theoretical Approaches to the International Political Economy
+
+Economic liberalism: Humans acting rationally, in a self-interested way, leads to benefits for all.
+
+Mercantilism: Economic wealth as an instrument of state power
+
++ Protectionism: Measures to protect one’s own economy from foreign competition in the name of national interest
+
+Economic nationalism: Economic policies are subservient to the national interest
+
+Economic radicalism: A reaction to the excesses of the colonial period and the Industrial Revolution
+
+## The Role of States
+
+States can use a variety of tools to influence domestic and international economic policy.
+
+Macroeconomic polices
+
++ Fiscal policies: affect state budgets by setting spending levels and tax rates
+
++ Monetary policies: control the money supply
+
+Microeconomics policies: policies on regulation, subsidies, competition, and antitrust actions
+
+**Exchange rates**: the price of currency in relation to another (floating/fixed rates)
+
+Trade policies
+
++ **Tariffs**: taxes on goods and services crossing borders
+
++ **Nontariff barriers**: restrictions on international trade designed to protect health, safety, or national security
+
++ **Current accounts**: measure the net border flows between countries of goods, services, government transfers, and income on capital investments
+
++ **Capital accounts**: describe the flows of capital between countries, including foreign direct investment and portfolio investment in and out
+
+**Balance of payments**: a country’s current and capital account balances
+
++ Surplus: the value of exports is greater than the value of imports.
+
++ Deficit: the value of imports is greater than the value of exports.
+
+## The Role of Multinational Corporations
+
+MNCs span state borders through trade and investment and/or actual presence. There are about 60,000 MNCs; they account for 50 percent of worldwide trade. Key engines of global economic growth. Transmission belt for capital, ideas, economic interdependence, and growth.
+
+## Bretton Woods Institutions
+
+A set of intergovernmental organizations to support economic liberalism. 
+
++ The World Bank
+
++ The International Monetary Fund (IMF)
+
++ The General Agreement on Tariffs and Trade (GATT)<br> $\rightarrow$ The World Trade Organization (WTO)
+
+### World Bank
+
+During the 1950s, the World Bank shifted its emphasis from reconstruction to development.
+
++ Lends funds, with interest, for economic development projects
+
++ Lending is designed not to replace private capital but to facilitate the use of private capital.
+
++ Much of its funding has been used for infrastructure projects: hydroelectric dams and basic transportation needs such as bridges and highways.
+
+### International Monetary Fund
+
+The International Monetary Fund (IMF) provides stability in exchange rates.
+
++ Fixed exchange rates (before 1976)
+
++ Floating exchange rates (1976)
+
+  + After the United States ended the convertibility of dollars to gold, monetary cooperation became the responsibility of the **Group of 7 (G7)**.
+  
++ Short-term loans to countries facing temporary crisis
+
++ Encouraging structural adjustments and providing policy advice on macroeconomic issues and economic restructuring
+
+### General Agreement on Tariffs and Trade
+
+Enshrined liberal principles:
+
++ Support of trade liberalization
+
++ Nondiscrimination in trade; most-favored-nation treatment
+
++ Preferential access in developed markets for products from the Global South
+
++ Support for the national treatment of foreign enterprises
+
+### World Trade Organization
+
+In 1995, GATT became a formal institution, renaming itself the World Trade Organization (WTO).
+
++ The World Trade Organization (WTO) incorporated the general areas of GATT’s jurisdiction and expanded jurisdiction in services and intellectual property.
+
++ Regular ministerial meetings gave the WTO new political prominence.
+
++ Represents states that conduct over 90 percent of the world’s trade.
+
++ Serves as a forum for trade negotiations.
+
++ Provides a venue for trade review, dispute settlement, and enforcement.
+
+## International Monetary Policy
+
+During the 1920s and after World War II, the value of the U.S. dollar was linked to gold. In 1971, the dollar was taken off the gold standard. The prices of each currency adjust continually in response to market supply and demand. Currency trades average more than $3 trillion a day. No global institution addressing monetary policy.
+
++ Central role of the United States and the U.S. dollar as the reserve currency
+
++ The U.S. dollar serves as the world reserve currency, giving the United States enormous power. 
+
+## International Trade Negotiations
+
+1986: Uruguay Round of trade talks covered new areas, such as services, intellectual property rights, and agriculture.
+
+The World Trade Organization (WTO) created the .p1-green[Trade Policy Review Mechanism] and .p1-red[Dispute Settlement Body]. Nonetheless, the WTO has proved to be a weak institution.
+
++ Between 1947 and 1994, the parties in the GATT were successful in cutting tariffs, giving better treatment to developing countries, and addressing new problems (subsidies and countervailing duties). 
+
++ Overall, tariffs were reduced in the major trading countries from an average of 40 percent to 5 percent on imported goods. 
+
+2001: the Doha Round began
+
++ Main sticking point remained agriculture market liberalization in the United States and European Union
+
++ Failed over perceptions of trade fairness.
+
+The WTO has proved to be a weak institution for facilitating that process, given the procedure adopted by negotiators: “nothing is agreed until everything is agreed.”
+
+## Globalization
+### Definition
+
++ As a **process**, the flows of goods, services, people, capital, and technology within a single world economy and the
+transformations of national economies that these flows produce.
+
++ As an **outcome**, a world economy in which government policies pose few barriers to, and technology enables, cross-border economic transactions.
+
+### Measurements
+
+Trade openness: Sum of the total imports and exports as a share of GDP
+
+  + Trade openness = [imports + exports]/GDP
+
+Capital flows: Total capital inflows and outflows as a share of GDP
+
+  + Consist of direct investment, portfolio, and bank finance
+  
+We can utilize other various indicators to see globalization
+
++ Private capital flow (net or percentage of GDP)
+
++ Manipulated indicators of globalization (social/economic/political)
+
++ Foreign direct investment (inflow or outflow)
+
+## Ricardo's Comparative Advantage
+
+Theory of comparative advantage
+
++ Specialization and free trade are the best policies for countries.
+
++ They increase world production and the consumption possibility for each country by increasing the efficiency.
+
++ Ricardo emphasized opportunity costs while previous scholars studied absolute costs to calculate utilities.
+
+```{r, echo = F}
+tab2 <- tibble(
+  Country = c("England", "Portugal"),
+  Cloth   = c(100, 90),
+  Wine    = c(120, 80),
+  `Opportunity cost of cloth` = c("0.833 wine (100/120)", "1.125 wine (90/80)"),
+  `Opportunity cost of wine`  = c("1.200 cloth (120/100)", "0.888 cloth (80/90)")
+)
+
+tab2 %>% kableExtra::kbl(caption = "Number of Hours Required to Produce 1 Unit of Goods") %>%
+  kableExtra::column_spec(1, "5em") %>%
+  kableExtra::column_spec(2:3, "4em") %>%
+  kableExtra::kable_paper(full_width = T)
+```
+
+How much cloth is forgone in England when one unit of wine is produced?
+
++ 1.20 units of cloth
+
++ 120 hours to produce one unit of wine/100hours to produce one unit of cloth.
+
+Opportunity cost
+
++ The internal trade-off in production between goods.
+
++ Choose goods for trade by the relative cost, not by the absolute cost.
+
++ In sum, trade makes countries better off
+
+  + England gets 1 unit of wine from Portugal rather than having to pay 1.2 units of cloth to produce 1 unit of wine.
+  
+### Critique of Ricardo's
+
+Specialization and free trade may not always result in more rapid progress over time, Why? Some goods can have varying values. In other words, some goods are more likely to benefit from the application of science and technology. 
+
++ Reduce their production costs over time.
+  
++ Contribute to economic expansion.
+
+For a country's future, what is crucial is not specialization *per se*, but **the choice of what to specialize in**.
+
+## Stolper-Samuelson Theorem
+
+An equilibrium model of international trade, building on Ricardo's comparative advantage. Relative endowments of the production factors (land, labor, and capital) determine a country's comparative advantage. Countries have comparative advantages in those goods required abundant factors.
+
++ B/c goods with abundant factor are cheaper to produce $\rightarrow$ Good for export
+  
++ Goods with scarce factor $\rightarrow$ Good for import
+
+## Differences between Ricardo and Stolper-Samuelson
+
+Ricardo
+
++ Comparative advantage by differences in labor productivity (technologies)
+  
++ A single factor of production (labor)
+
+Stolper-Samuelson
+
++ Identical production technology everywhere
+  
++ Relative ratio of capital, labor, and land
+
+```{r, echo = F}
+table3 <- tibble(
+  ` ` = c("Ricardo", "Stolper-Samuelson"),
+  "Technology" = c("Different", "Identical"),
+  "Factor" = c("Only labor", "Capital, labor, and land")
+)
+
+table3 %>% kableExtra::kbl() %>%
+  kableExtra::column_spec(1, "8em") %>%
+  kableExtra::kable_paper(full_width = T)
+```
+
+### Main Prediction of Stolper-Samuelson Theorem
+
+A country is better off exporting goods with abundant factors. 
+
+```{r, echo = F}
+table4 <- tibble(
+  ` ` = c("Developed", "Developing"),
+  Abundant = c("Skilled labor and capital", "Unskilled labor"),
+  Factor = c("Unskilled labor", "Skilled labor and capital")
+)
+
+table4 %>% kableExtra::kbl() %>%
+  kableExtra::column_spec(1, "7em") %>%
+  kableExtra::kable_paper(full_width = T)
+```
+
+Trade benefits capital and harms labor in developed countries, *vice versa*.
+
+  + In developed countries, inequality $\uparrow$
+
+  + In developing countries, inequality $\downarrow$
+  
+### Critique of the Theorem
+
+Leontief Paradox
+
++ SS theory predicts that each country exports the commodity which uses its abundant factor.
+
++ The first test by Wassily W. Leontief in 1954
+
++ US, the most capital abundant, exported labor-intensive goods and imported capital-intensive goods.
+
+Lower inequality in developing countries?
+
++ In Latin Ameerica, inequality is rising as trade increases.
+
+## Capital Mobility Theory
+
+Impacts of international capital mobility
+
++ Increase the power of capital over government that tries to expand social protection
+
+  + Mobile capital pursues profitable return on investment vs. Governments compete to attract investment
+  
+  + Mobile capital can threaten government by 'exit option.'
+  
+Impacts of international capital mobility
+
++ Lower tax rates on mobile assets
+
+  + Corporate profits and high income-earners.
+  
++ Capital exit's option weakens unions and social corporatism.
+
+## Compensation Theory
+
+Historical association between economic openness and bigger public sector.
+
+  + He accepts that openness promotes efficiency.
+  
+  + Small countries gain the benefits of economies of scale.
+  
+  + However, economic restructuring has a negative impact on unskilled workers.
+  
+The welfare state works as a mechanism of domestic compensation.
+
+  + Welfare benefits: side-payments to the losers in market.
+  
+  + Social welfare may be an important political lubricant, facilitating social acceptance of economic change.
+  
+## Empirical Findings
+
+1. Surprisingly, few empirical research on the impact of globalization on inequality.
+
+    + Their findings are inconclusive.
+
+2. Studies of globaization and welfare spending in *developed countries* are voluminious.
+
+    + Their empirical findings are still inconclusive.
+
+    + Due to, in part, different measurements $\rightarrow$ Myriad ways to measure to the welfare state and globalization.
+
+3. Study of welfare state and globalization among *developing countries* is of more recent vintage.
+
+    + But empirical findings may converge into a single point.
+
+    + Negative effect of globalization on welfare spending.
+  
+4. Study of welfare state and globalization among *developing countries* is of more recent vintage.
+
+    + Different patterns of integration into global markets
+  
+    + Difference of the bargaining power of labor.
+  
+    + Left parties differ.
+    
+## Article: Milner (1999) The Political Economy of International Trade
+
+Explores the existing theories about trade and trade policy, focusing on preferences(interests), institutions, and systems.
+
+1. Changes in trade policy preferences among domestic actors (groups, leaders).
+
+    + Economists: Free trade is the best policy for most countries most of the time.
+
+    + Political scientists: Pressure group model, the recourse to protection by governments as a function of the demands made by domestic group.
+
+2. Changes in political institutions to account for such policy change.
+
+    + Some institutions tend to give special interest groups greater access to policy makers, rendering their demands harder to resist.
+
+    + Other institutions insulate policy makers from these demands, allowing them more leeway in setting policy.
+
+    + Other aspects of political regime: electoral system/state capacity/Dem-Auto.
+
+3. Changes in the international political system.
+
+    + IO between countries: (1) reduce transaction costs, (2) prevent countries from betrayal, (3) enjoy absolute gains.
+
+4. Reciprocal impact of trade on the domestic and international political system.
+
+    + Openness raises the potential number of supporters of free trade as exporters and multinational firms.
+
+    + According to the compensation theory, Openness $\rightarrow$ Economic growth.
+    
+    + Constraining influence of political conditions; PR system, welfare state regime
+
+## Strategies to Achieve Economic Development
+
+Following World War II and the quick end to colonial rule in the 1950s and 1960s, international development focused on large infrastructure projects. In the 1970s, international development began funding projects on health, education, and housing to improve lives of the poor.
+
+The 1980s saw a shift toward reliance on the private sector.
+
++ **Washington Consensus**: privatization, liberalization of trade and foreign direct investment, broad tax reform, and deregulation are needed for development to occur.
+
+The 1990s witnessed an emphasis on sustainable development.
+
++ **World Bank**: Began promoting sustainable development with an emphasis that incorporates concern for renewable resources and the environment
+
+The 1990s did see growth in emerging markets, and average per-capita incomes in the developing world have grown at a faster rate than in the developed economies.
+
++ Millennium Development Goals (MDGs) were designed to reduce poverty by 2015 with eight goals; it had limited success.
+
++ In 2015, 17 Sustainable Development Goals (SDGs) were announced for 2030. Yet, the COVID-19 pandemic disrupted the implementation of these SDGs.
+
+The **Beijing Consensus** emerged, with an emphasis on China’s rapid, state-driven growth as an alternative model to development.
+
++ Experimenting with policies that are compatible with a state’s political structure and cultural experience. 
+  + This may include using capitalist tools as well as employing state-owned enterprises to invest capital in the country’s own markets and abroad. 
+  
++ This approach was viewed quite favorably because China continued to have high growth rates and had apparent success in weathering the global financial crisis and the 2020 pandemic-induced economic lockdown.
+
+## Economic Challenges
+
+International crises have been a recurrent feature of the global economic system.
+
++ Asian financial crisis (1997–99)
+
++ Global financial crisis (2008–2009)
+
++ The COVID-19 pandemic crisis
+
+
+### COVID-19 and Resulting Economic Crisis
+
+The COVID-19 pandemic caused an economic crisis like no other:
+
++ Countries locked down, leading to skyrocketing unemployment and collapsing trade flows.
+
++ Countries’ GDPs dropped precipitously.
+
++ By the end of 2020, 38 governments were at risk of default.
+
++ Workers in the developing world were severely affected due to lack of safety nets, unemployment insurance, and savings.
+
++ Many developing countries have seen economic regression back to levels last seen in the 1990s.
+
++ Developing countries could not respond with the same monetary and fiscal policies as their developed counterparts in order to stimulate their economies.
+
+### Responses to Economic Crises
+
+The global financial crisis and the Eurozone crisis prompted reforms.
+
++ Economic liberals believe these to be sufficient.
+
++ But the *moral hazard* is not alleviated: states rescued from the consequences of their reckless behavior may have little incentive to change that behavior in the future.
+
+Minimizing the health and economic impacts of the COVID-19 pandemic and future pandemics is more challenging.
+
++ Investment in disease surveillance systems and pandemic preparedness is needed.
+
++ Problems: distributing economic burdens across countries and economic nationalism

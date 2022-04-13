@@ -1,22 +1,456 @@
 # Final Exam Pool {-}
 
+It is a living documents by April 24th.
+
 ## Part I. Multiple-Choice {-}
 
-I will pick 12 MC quizzes from here.
+I will pick 12 MC questions from here. 3 MC questions will come from BDM et al. (2005), Milner (1999), Green and Hale (2017). Please read their **abstracts** carefully.
 
 ----
 
+1. Which of the following problems do realists think makes cooperation difficult?
 
+    A. states’ lack of shared identities
+    
+    B. states’ concern with relative gains
+    
+    C. transaction costs associated with negotiating treaties
+
+    D. reciprocity
+
+2. The prisoner’s dilemma reflects the problem of
+
+    A. distribution problems.
+    
+    B. norms of noncooperation.
+    
+    C. socialization.
+    
+    D. cheating.
+
+3. Which of the following is true of the realist view of cooperation?
+
+    A. Realists believe that reciprocity prevents cooperation.
+    
+    B. Realists believe that continuous interactions can help states overcome the relative gains problem.
+    
+    C. Realists believe that noncooperation is the rational choice for states.
+    
+    D. Realists believe that both states are better off if they both do not cooperate than if they both cooperate.
+
+4. Which of the following is true of the neoliberal institutionalist approach to the study of cooperation?
+
+    A. Unlike realists, neoliberal institutionalists do not believe the international system is anarchiC.
+
+    B. Unlike realists, neoliberal institutionalists do not view states as unitary actors.
+    
+    C. Like realists, neoliberal institutionalists think states will not cooperate because they are rational actors.
+    
+    D. Like realists, neoliberal institutionalists view states as rational actors, but believe that can lead to cooperation rather than noncooperation.
+
+5. According to liberal theory, the fact that the General Agreement on Tariffs and Trade (GATT) creates a forum for multilateral negotiations
+
+    A. reduces transaction costs, making cooperation more likely.
+    
+    B. reduces transaction costs, making cooperation less likely.
+    
+    C. increases transaction costs, making cooperation more likely.
+    
+    D. increases transaction costs, making cooperation less likely.
+
+6. A body of rules and norms regulating interactions among states is known as
+
+    A. international interdependence.
+    
+    B. the international constitution.
+    
+    C. international order.
+    
+    D. international law.
+
+7.	Which of the following factors drive horizontal enforcement of international law?
+
+    A. reciprocity and legitimacy
+    
+    B. power and legitimacy
+    
+    C. power and reciprocity
+    
+    D. international courts
+
+8.	Which economic policy would a mercantilist favor?
+
+    A. promoting exports over imports
+    
+    B. free trade
+    
+    C. promoting equitable distribution of resources in the international system
+    
+    D. promoting an increase in imports
+
+9.	The three Bretton Woods institutions are
+
+    A. the United Nations, the General Agreement on Tariffs and Trade, and the World Bank.
+    
+    B. the United Nations, the General Agreement on Tariffs and Trade, and the World Trade Organization.
+    
+    C. the General Agreement on Tariffs and Trade, the World Bank, and the International Monetary FunD.
+    
+    D. the World Trade Organization, the United Nations, and the World Bank.
+
+10.	Based on the recognition that states differ in their resource endowments of land, labor, and capital, a theory developed arguing that states should trade based on their __________, whereby each state produces and exports those products that it can produce most efficiently relative to other states.
+
+    A. exchange rate
+    
+    B. absolute advantage
+    
+    C. comparative advantage
+    
+    D. national interest
+
+11.	The liberal approach to economic development embodied by the Washington Consensus prioritizes which of the following policies?
+
+    A. export subsidies
+    
+    B. employing state-owned enterprises
+    
+    C. privatization
+    
+    D. protectionism
+    
+12.	Which of the following is true of the League of Nations?
+
+    A. It was founded based on the idea of collective security.
+    
+    B. It was formed after World War II, and successfully prevented war until it ceded power to the United Nations in the 1960s.
+    
+    C. It was the successor to the United Nations.
+    
+    D. The United States was the first to join the organization.
+
+13.	Which of the following is a key difference between the League of Nations and the UN?
+
+    A. The UN can authorize the use of force against a member state while the League of Nations could not.
+    
+    B. The UN embodies the logic of collective security while the League of Nations did not.
+    
+    C. The United States oversaw the governance of the League of Nations while the UN is not governed by any one member state alone.
+    
+    D. UN actions focus on a broader view of security than the League of Nations did.
+
+14.	__________ is characterized by the UN seeking to contain conflicts between two states through third-party military forces, whereas __________ is characterized by both military and nonmilitary functions.
+
+    A. Traditional peacekeeping; complex peacekeeping
+    
+    B. Non-refoulement; complex peacekeeping
+    
+    C. Traditional peacekeeping; non-refoulement
+    
+    D. Complex peacekeeping; traditional peacekeeping
+
+15.	Which policy has been the tool most used by the UN Security Council in peace enforcement actions?
+
+    A. use of force
+    
+    B. non-refoulement
+    
+    C. economic sanctions
+    
+    D. preferential trade agreements
+
+16.	What are nongovernmental organizations (NGOs)?
+
+    A. local and regional units of states
+    
+    B. subunits of the United Nations
+    
+    C. international institutions composed of states
+    
+    D. private, voluntary organizations whose members come together to achieve a common purpose
+
+17.	Which of the following is a source of NGOs’ power in the international system?
+
+    A. their rigid structure
+    
+    B. new communication technologies that allow them to build coalitions
+    
+    C. their voting power in the United Nations
+    
+    D. their consistent access to funding
+
+18.	Which of the following entities are the primary actors at the grassroots level in mobilizing individuals on political issues?
+
+    A. IGOs
+    
+    B. NGOs
+    
+    C. state governments
+    
+    D. MNCs
+    
+19.	Liberal political theorists place emphasis on __________, as laid out in documents such as the Bill of Rights.
+
+    A. social and economic rights
+    
+    B. civil and political rights
+    
+    C. group rights for marginalized people
+    
+    D. collective rights such as the right to development
+
+20.	Which of the following is an example of civil and political rights?
+
+    A. freedom from incarceration
+    
+    B. state sovereignty
+    
+    C. rejection of government policies that cause suffering
+    
+    D. freedom of speech
+    
+21.	What is referred to as the International Bill of Rights consists of
+
+    A. the Geneva Conventions and the United Nations Charter.
+    
+    B. only the Universal Declaration of Human Rights.
+    
+    C. only the International Covenant on Civil and Political Rights and the International Covenant on Economic, Social, and Cultural Rights.
+    
+    D. the Universal Declaration of Human Rights, the International Covenant on Civil and Political Rights, and the International Covenant on Economic, Social, and Cultural Rights.
+    
+22.	In general, states with what government type are the most likely to abuse political and civil rights?
+
+    A. liberal democracies
+    
+    B. autocracies
+    
+    C. oligarchies
+    
+    D. parliamentary democracies
+
+23.	Early United Nations efforts following the 1949 Universal Declaration of Human Rights focused on getting states to grant women
+
+    A. civil and political rights.
+    
+    B. socioeconomic rights.
+    
+    C. workers’ rights.
+    
+    D. religious rights.
+
+24.	Which of the following is true about the status of women in the international community?
+
+    A. Discrimination against women in political and public life is considered illegal by international treaties.
+    
+    B. NGOs have stopped pushing the issue of women’s rights.
+    
+    C. Rape is only considered to be a wartime issue in international law.
+    
+    D. No international standards against trafficking in women exist.
+
+25.	Military action by states or the international community to alleviate massive human rights violations is known as
+
+    A. genocidal relief.
+    
+    B. cultural relativist intervention.
+    
+    C. humanitarian intervention.
+    
+    D. intrastate war.
+
+26.	Which of the following statements is consistent with the idea of the “responsibility to protect (R2P)”?
+
+    A. States must intervene militarily to protect human rights when massive violations are occurring in another state.
+    
+    B. The UN Security Council must authorize military intervention when massive human rights violations are occurring in a state.
+    
+    C. States must intervene to protect human rights in the face of massive violations in another state, but they can never do so militarily.
+    
+    D. States must intervene when massive human rights violations are occurring in another state, but may only use military force when authorized by the UN Security Council.
+
+27. `Milnter (1999)`: One of the most salient changes in the world economy since 1980 has been the move toward __________ among countries across the globe. How do existing theories about trade policy explain this puzzle? Three sets of explanations are prominent. First, many focus on changes in trade policy preferences among __________, either societal groups or political leaders. Second, scholars examine changes in political institutions to account for such policy change. Third, they seek explanations in changes in the ______________________________. Large-scale changes in political institutions, especially in the direction of democracy, may be necessary for the kind of massive trade liberalization that has occurred. But changes in preferences cannot be overlooked in explaining the rush to free trade. Moreover, the influence of international institutions has been important. Finally, the reciprocal impact of trade on domestic politics and the international political system is important. If the rush to free trade is sustained, will its impact be benign or malign?
+
+    A. freer trade; international actors; domestic political system
+    
+    B. more protectionist trade; domestic actors; domestic political system
+    
+    C. freer trade; domestic actors; international political system
+    
+    D. freer trade; transnational actors; domestic political system
+
+28. `Bueno de Mesquita et al. (2005)`: Research on human rights consistently points to the importance of democracy in reducing the severity and incidence of personal integrity abuses. The prescriptive implications of this finding for policy makers interested in state building have been somewhat limited, however, by a reliance on ____________________  of democracy. Consequently, a policy maker emerges from this literature confident that "democracy matters" but unclear about which set(s) of reforms is likely to yield a greater human rights payoff. Using data from the Polity IV Project, we examine what aspects of democracy are most consequential in improving a state's human rights record. Analysis of democracy's dimensions elicits three findings. First, political participation at the level of ____________________ appears more significant than other dimensions in reducing human rights abuses. Second, improvements in a state's level of democracy short of full democracy do not promote greater respect for integrity rights. Only those states with the highest levels of democracy, not simply those conventionally defined as democratic, are correlated with better human rights practices. Third, ________________ appears to be the critical feature that makes full-fledged democracies respect human rights; limited accountability generally retards improvement in human rights.
+
+    A. multidimensional measures; unconventional political arena; accountability
+    
+    B. unidimensional measures; multiparty competition; contestation
+    
+    C. unidimensional measures; unconventional political arena; accountability
+    
+    D. multidimensional measures; multiparty competition; contestation
+    
+29. `Green and Hale (2017)`: Despite the ___________ urgency of many environmental problems, environmental politics remains at the margins of the discipline. Using data from the Teaching, Research, and International Policy (TRIP) project, this article identifies a puzzle: the majority of international relations (IR) scholars find ___________ among the top three most important policy issues today, yet fewer than 4% identify the environment as their primary area of research. Moreover, environmental research is rarely published in top IR journals, although there has been a recent surge in work focused on climate change. The authors argue that ___________ attention to environmental issues—including those beyond climate change—in IR can bring significant benefits to the discipline, and they discuss three lines of research to correct this imbalance.
+
+    A. increasing; greater; climate change
+
+    B. increasing; less; economic growth
+
+    C. decreasing; greater; climate change
+
+    D. decreasing; less; economic growth
 
 ## Part II. True/False Question {-}
 
-I will pick 12 T/F quizzes from here.
+I will pick 15 T/F quizzes from here.
 
 ----
 
+1.	Realists believe that cooperation is difficult because states care about absolute gains.
+
+    A. True
+    
+    B. False
+
+2.	Realists only expect states to cooperate if they can both benefit in absolute terms.
+
+    A. True
+    
+    B. False
+
+3.	Neoliberal institutionalists believe that the possibility of reciprocity in repeated interactions can foster cooperation among states.
+
+    A. True
+    
+    B. False
+
+4.	Neoliberal institutionalists think international institutions are important in fostering cooperation, but other liberal theorists do not.
+
+    A. True
+    
+    B. False
+
+5.	States that have ratified a treaty are legally bound by that treaty only after it enters into force.
+
+    A. True
+    
+    B. False
+
+6.	There are no limitations on a state’s actions in its territorial waters.
+
+    A. True
+    
+    B. False
+
+7.	To supporters of economic liberalism, MNCs are a positive development.
+
+    A. True
+    
+    B. False
+
+8.	China is now a member of the World Trade Organization.
+
+    A. True
+    
+    B. False
+
+9.	While they differ in their arguments about free trade, economic liberals and economic nationalists have similar approaches to economic development.
+
+    A. True
+    
+    B. False
+
+10.	The economic liberal approach to development includes privatization.
+
+    A. True
+    
+    B. False
+
+11.	The manner and extent to which different IGOs carry out particular functions varies.
+
+    A. True
+    
+    B. False
+
+12.	In the United Nations, a tension exists between addressing issues of human security and the need to respect state sovereignty.
+
+    A. True
+    
+    B. False
+
+13.	Different NGOs often work at cross-purposes, resulting in countervailing pressures on policy issues.
+
+    A. True
+    
+    B. False
+
+14.	Like liberals, realists believe NGOs play an important role in international relations.
+
+    A. True
+    
+    B. False
+
+15.	Constructivists do not think that IGOs and NGOs can exert much influence over states.
+
+    A. True
+    
+    B. False
+
+16.	Less developed states, even liberal democratic ones, often fail to meet obligations of social and economic rights.
+
+    A. True
+    
+    B. False
+
+17.	The “responsibility to protect (R2P)” norm has been invoked only selectively.
+
+    A. True
+    
+    B. False
+
+18.	Several states have withdrawn, or threatened to withdraw from, the ICC.
+
+    A. True
+    
+    B. False
+
+19.	One key reason why environmental issues are difficult to resolve is because there is an incentive to “free ride” and hope others will bear the costs of adopting environmental protections.
+
+    A. True
+    
+    B. False
+
+20.	Under international law, refugees can be forced to return to their country of origin.
+
+    A. True
+    
+    B. False
+
+21.	Africa is where the most migrants are on the move and most migrants are hosted.
+
+    A. True
+    
+    B. False
+
+22.	Some individuals and states benefit from the migration crisis.
+
+    A. True
+    
+    B. False
+
+23.	States and IGOs have been unable to coordinate cooperative efforts to aid in the distribution of the COVID-19 vaccines across the world.
+
+    A. True
+    
+    B. False
+
+24.	Liberals and realists agree on how to address health issues. They argue that only individual states are responsible for dealing with health issues when they threaten state security.
+
+    A. True
+    
+    B. False
+
 ## Part III. Short Essay {-}
 
-> *Instructions*:  Write an essay that answers the question below. Your answer is worth 10 points. ($1 \times 10$ = 10 total points)
+> *Instructions*:  Write an essay that answers the question below. Your responses should be concise (in terms of content) and clear (in terms of writing). your response should not exceed more than a single sided page. Your answer is worth 10 points. ($1 \times 10$ = 10 total points) 
 
 ----
 
