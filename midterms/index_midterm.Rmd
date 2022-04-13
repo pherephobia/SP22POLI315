@@ -17,20 +17,20 @@ Sys.setlocale("LC_ALL","English")
 
 The exams will evaluate student's knowledge of key concepts discussed in class. The midterm exam will cover material from classes between January 13th and March 3rd, while the final exam will cover material from classes between March 22nd and April 21st.
 
-## Final Description {-}
+## Midterm Description {-}
 ### Date and Time {-}
 
-Thursday, April 28th from 4:00 pm to 5:15 pm
+Thursday, March 17th from 2:50 pm to 4:05 pm
 
 ### Items {-}
 
-Final will consist of multiple choice questions, true/false questions, and a short answers.
+Midterm will consist of multiple choice questions, true/false questions, and a short answers.
 
 ### Make-up {-}
 
-Makeup final exams will be allowed only with pre-approval of the instructor or with an acceptable, documented reason. Acceptable reasons for makeup exams include severe illness, family emergencies or other unavoidable events including dangerous weather conditions and car accidents. Exam format for makeup exams may be different from the original exam and will likely utilize a short answer format. An oral examination may also be utilized if deemed appropriate by the instructor.
+Makeup mid-term exams will be allowed only with pre-approval of the instructor or with an acceptable, documented reason. Acceptable reasons for makeup exams include severe illness, family emergencies or other unavoidable events including dangerous weather conditions and car accidents. Exam format for makeup exams may be different from the original exam and will likely utilize a short answer format. An oral examination may also be utilized if deemed appropriate by the instructor.
 
-### Final Format {-}
+### Midterm Format {-}
 
 ```{r, include=F}
 Sys.setlocale(category = 'LC_ALL', locale = 'english')
@@ -39,18 +39,18 @@ Sys.setlocale(category = 'LC_ALL', locale = 'english')
 
 ```{r, echo = F, message = F, warning=F}
 library(tidyverse)
-final <-
+midterm <-
   tibble(
     Type = c("Multiple Choices", "T/F", 
              "Short answers", "Total"),
-    Number = c(15, 15, 2, 32),
-    `Point for individual question (pt)` = c(3, 3, 5, NA),
-    `Sum (pt)` = c(45, 45, 10, 100)
+    Number = c(15, 5, 5, 25),
+    `Point for individual question (pt)` = c(3.5, 3.5, 6, NA),
+    `Sum (pt)` = c(52.5, 17.5, 30, 100)
   )
 
-final %>% gt::gt() %>%
+midterm %>% gt::gt() %>%
   gt::tab_header(
-    title = "SPRING 2022 POLI315 Final") %>%
+    title = "SPRING 2022 POLI315 Midterm") %>%
   gt::fmt_missing(
     columns = 1:4,
     missing_text = ""
@@ -66,7 +66,7 @@ final %>% gt::gt() %>%
 
 ```
 
-As the Final is worth of 25% in final grades, I will calculate the score of Final as 0.25 $\times$ Final points. For example, if you obtain 80 pts in the final, it will be `r 0.25*80` pts in your final grades.
+As the Midterm is worth of 25% in final grades, I will calculate the score of Midterm as 0.25 $\times$ Midterm points. For example, if you obtain 80 pts in the midterm, it will be `r 0.25*80` pts in your final grades.
 
 ## How to study {-}
 

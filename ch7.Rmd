@@ -1,0 +1,298 @@
+# International Laws & Intergovernmental Organizations
+## International Cooperation and Laws
+### International cooperation
+
+Actors mutually adjust their behavior to accommodate the actual or anticipated preferences of others in the pursuit of common goals. Their preferences are not identical and irreconcilable. International cooperation  exists when states adopt behavior consistent with the preferences of other states to achieve common objectives like avoiding war, reconciling trade imbalances, or stopping the proliferation of cybercrime.
+
+### What makes cooperation difficult?
+
+#### Relative gains
+
+Refers to how much more one state gains over another from a given interaction.
+  
+  + The benefits of cooperation are unlikely to be evenly distributed among participating states.
+  
+  + States can be hesitant to cooperate when one side reaps larger benefits of cooperation.
+  
+#### Prisoner's dilemma
+
+Cooperation is a risky maneuver in the face of the potential for cheating by others.
+
+  + Knowing that the incentive to cheat exists, each side is driven away from the choice to cooperate.
+  
+  + Anarchy forces states to make choices based solely on their self-interests, making cooperation very difficult.
+  
+##### Example
+
+Adam and Bob have robbed a bank and been arrested.
+
++ They are interrogated separately.
+
++ Adam and Bob have the option
+
+  1. to confess (move `C`) or 
+  
+  2. to remain silent (move `S`). 
+
+The police have little evidence, and if both remain silent they will be sentenced to one year on a minor charge. Therefore the police interrogators propose a deal: 
+
++ If one confesses while the other remains silent, the one confessing goes free while the other is sentenced to three years. 
+  
++ However, if both talk, both will still be sentenced to two years.
+
+In this game, if each player’s payoff is 3 minus the number of years served in jail,<br> we get the following payoff bimatrix.
+
+```{r, echo = F, message=F, warning=F}
+prisoners <-
+  tibble(
+    ` ` = c(".bold[S]", ".bold[C]"),
+    S = c("2, 2", "3, 0"),
+    C = c("0, 3", "1, 1")
+  )
+library(kableExtra)
+prisoners %>% kbl() %>% 
+  kable_styling() %>%
+  column_spec(1:3, width = "10em")
+```
+
+It seems obvious that both should remain silent, but that’s not likely to happen.
+
+  + Each player’s move `C` strictly dominates move `S`.
+  
+  + Furthermore, the best response to move S is `C`, and the best response to move `C` is also move `C`, therefore the pair (`C`, `C`)&mdash;both confessing forms the unique .bold[Nash equilibrium] of this game.
+  
+  + The choice `C` &mdash;confessing&mdash;with payoffs of only 1 may seem counterintuitive if negotiations can take place in advance, but their terms are non-binding and cannot be enforced. 
+
+  + It would be useless to agree on move `S` in advance, since each of the players would feel a strong urge to deviate (cheat). Only if binding agreements are possible, would both agree on the `S`-`S` combination, reaching a higher payoff. 
+  
+Thus **PRISONER’S DILEMMA** gives a paradoxical result. 
+
++ Players will play moves that result in lower payoffs for both than are possible. 
+
++ This is in part because the rules of the game do not allow binding agreements.
+
+### Why do some believe international cooperation is likely?
+
+Despite systemic anarchy, states often cooperate because cooperation may be in their self-interest. 
+
++ States interact continuously and can reciprocate both cooperation and cheating.
+
++ The expectation of reciprocity makes cooperation a rational choice.
+
++ Shadow of the future: states expect that they will have repeated interactions.
+
+  + For example, the United States–Mexico–Canada trade agreement creates expectations of consistent future interactions.
+  
+If the prisoner’s dilemma is played only once, it is in each prisoner’s self-interest to defect. However, if the prisoner’s dilemma interaction is played repeatedly, the likelihood of reciprocity (referred to as a tit-for-tat strategy) makes it rational for each prisoner to cooperate rather than defect.
+
+#### Solution as international institution?
+
+International institutions foster cooperation by encouraging reciprocity.
+
++ Institutions make cooperative and non-cooperative behavior easier to identify.
+
++ Institutions can provide states with information about the behavior of others.
+
++ Institutions enable states to align their expectations about what cooperative behavior looks like.
+
+Neoliberal institutionalist suggests institutions as a way to prevent states from cheating
+
++ Setting standards of behavior: Establishing rules explicitly through charters or over time through norms
+  
++ Verifying compliance: Monitoring (elections, production of nuclear material)
+  
++ Reducing costs of joint decision making: Requires institutions to ‘stick’
+
++ Resolving Disputes: Resolution mechanisms (WTO, Regional Trade Agreements) 
+
+### International Laws
+
+Consists of a body of rules and norms regulating interactions among states, between states and IGOs, and in more limited cases, among IGOs, states, and individuals. Sources of international law include followings:
+
++ Customs&mdash;ingrained habits, usually created by groups of states or a hegemon.
+
++ Treaties&mdash;binding written agreements that lay out rights and obligations: Usually require ratification.
+
+  + Treaties are crucial in establishing law across all areas of the international system.
+  
++ Enforcement Mechanisms and State Compliance
+
+  + States are sovereign actors, and compliance with international law is clearly not absolute.
+
+  + The U.S. invasion of Iraq (2003) violated the UN Charter.
+
+  + Yet, most of the time, states do comply with international law.
+  
+#### Vertical Enforcement
+
+A legal process whereby one actor works to constrain the actions of another actor over which it has authority in order to secure its compliance with the law.
+
+#### Horizontal Enforcement
+
+States work to elicit compliance with international law by other states.
+
++ Power: States comply with international law because more powerful states make them.
+
++ Reciprocity/tit for tat: the desire to reap the gains of cooperation will incentivize states to comply with the laws.
+
+## Intergovernmental Organizations
+
+International institutions established by states and whose members are the governments of states.
+
++ Examples: the United Nations, OPEC, the European Union, etc.
+
+Why do states organize themselves collectively through intergovernmental organizations?
+
++ Neoliberal institutionalism: Continuous interaction among states provides motivation for them to create international organizations, which, in turn:
+
+  + Moderate state behavior.
+
+  + Provide a framework for interaction.
+  
+  + Establish mechanisms to reduce cheating.
+
+  + Facilitate transparency of state actions.
+
+  + When states repeatedly interact with one another, they can reciprocate cooperative actions or punish non-cooperative ones.
+
+    + International institutions help to solidify these repeated interactions by creating lasting relationships among states.
+    
+  + Particularly useful for solving two types of problems:
+
+    + Technical, nonpolitical issues for which states are not the best units for problem resolution (functionalism)
+
+    + Management of collective goods: goods available to all group members, regardless of individual contribution
+
+### Roles of IGOs: The International System
+
++ Contribute to habits of cooperation (European Union)
+
++ Gather information; surveillance (International Atomic Energy Agency)
+
++ Settle disputes (World Trade Organization)
+
++ Conduct operational activities (World Food Programme)
+
++ Arena for bargaining (World Trade Organization)
+
++ Lead to creation of transnational societal networks (European Union)
+
+### Roles of IGOs: States
+
++ Expand the possibilities for foreign policy making
+
++ Used by states as instrument of foreign policy: legitimize foreign policy
+
++ Enhance available information
+
++ Punish or constrain state behavior
+
+### The United Nations
+
+Founded as the League of Nations after World War I to focus on the notion of collective security. Guided by three principles:
+
+1. Each state is legally the equivalent of every other state.
+
+2. Only international problems fall within the jurisdiction of the United Nations.
+
+3. The United Nations is designed primarily to maintain international peace and security.
+
+#### Security Council
+
++ Permanent members (5): the United States, Great Britain, France, Russia, and the People’s Republic of China
+
++ Have the ability to veto substantive resolutions passed by the council and ten additional rotating members elected by region. 
+
++ Under Chapter VII of the UN Charter, the Security Council has the power to authorize economic sanctions or the use of force against a state that violates international peace and security. 
+
+#### General Assembly
+
++ Forum for states to air ideas and complaints from constituents
+
++ Arena in which member states can debate
+
++ Evaluates and approves the UN budget
+
++ Resolutions can provide the basis for new international laws. 
+
+Limited influence because the General Assembly can make only recommendations and members have widely diverse interests.
+
+#### Key Political Issues for the United Nations
+
++ Development of peacekeeping
+
+  + Evolved as a way to limit conflict and prevent escalation into Cold War confrontation
+  
++ Post–Cold War Chapter VII enforcement
+
++ Continuous efforts to reform
+
+#### Traditional Peacekeeping
+
++ Uses third-party military forces drawn from nonpermanent members of the Security Council
+
++ Prevents conflicts from escalating
+
++ Invited in by disputants
+
++ Focuses on separating warring parties (buffer zone), securing borders, patrolling demarcation, maintaining cease-fires
+
+### Complex Peacekeeping
+
+Also known as multidimensional peacekeeping:
+
++ Respond to civil wars, ethnonational conflicts, and domestic unrest 
+
++ Disputants may not have requested UN assistance
+
++ Use of military and civilian personnel (including those drawn from the Security Council)
+
+  + Verifying troop withdrawals
+
+  + Separating warring factions
+
+  + Conducting and supervising elections
+
+  + Implementing human rights guarantees
+
+  + Supplying humanitarian aid
+
+  + Helping civil administration maintain law and order (also known as peacebuilding)
+  
+### Nongovernmental Organizations (NGOs)
+
+Private, voluntary organizations whose members are individuals or associations that come together to address a common purpose, often oriented to a public good. 
+
++ Not sovereign; lack resources available to states. 
+
++ Some entirely private, and some partially relying on government aid.
+
++ Some are open to mass membership; others are closed-member groups.
+
++ The number of NGOs has grown dramatically.
+
+In recent decades, NGOs have grown in importance due to the communications revolution (fax, internet, e-mail, social media) recruit to, and launch the publicity campaigns of many NGOs.
+
+#### Functions and Roles of NGOs
+
++ Advocate for specific policies
+
++ Alternative channel for political participation
+
++ Mobilize mass publics
+
++ Distribute aid
+
++ Monitor norms and state practices
+
+#### The Power of NGOs
+
+NGOs rely on soft power, trying to persuade others to change their behavior. Having an independent donor base and links with grassroots groups provides flexibility of actions.
+
++ Can operate in different areas of the world
+
+Being politically independent allows for rapid and direct execution of policy initiatives.
+
+#### The Limits of NGOs
+
+NGOs often lack material forms of power; they cannot command obedience through physical means. Most NGOs have very limited funding. Many NGOs rely on governments, which raises questions of legitimacy and neutrality.
