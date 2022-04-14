@@ -25,6 +25,34 @@ Microeconomics policies: policies on regulation, subsidies, competition, and ant
 
 **Exchange rates**: the price of currency in relation to another (floating/fixed rates)
 
++ The International Classical Gold Standard (gold coin standard), 1873-1914
+
+  + The gold standard became the basis for the international monetary system after 1873.
+  
+  + Adopting and maintaining a singular monetary arrangement encouraged international trade and investment by stabilizing international price relationships and facilitating foreign borrowing.
+  
++ Moved to gold bullion standard (1931)
+
+  + When a large amount of money was required as a result of World War I, countries temporarily stopped converting gold and began to increase the issuance of money. 
+  
+  + This was a major setback for the gold standard.
+  
+  + Furthermore, the gold standard system based on the nine pound collapsed decisively with the onset of the Great Depression.
+  
+  + After the WWII, the Bretton Woods system was established after it was decided to adopt the gold standard with the US dollar as the reserve currency.
+
+  + The crucial difference between the classical gold standard system and the modern gold standard system is that the United States exclusively performs gold conversion, rather than each country's central banks performing gold conversion independently.
+
++ Moved to floating exchange rate: Nixon shock (1971)
+
+  + US issues too much dollars for the Cold War and Vietnamese war, regardless of the amount of Gold that US has.
+  
+  + Other countries required US to convert their dollars into golds.
+  
+  + 1971, Nixon supported suspending the dollar’s convertibility into gold.
+  
+  + The Nixon Shock effectively led to the end of the Bretton Woods Agreement and the convertibility of U.S. dollars into gold.
+
 Trade policies
 
 + **Tariffs**: taxes on goods and services crossing borders
