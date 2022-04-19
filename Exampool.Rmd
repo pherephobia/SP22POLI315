@@ -1,14 +1,14 @@
 # Final Exam Pool {-}
 
-It is a living documents by April 24th.
+It is a living documents by April 22th.
 
 ## Part I. Multiple-Choice {-}
 
-I will pick 12 MC questions from here. 3 MC questions will come from BDM et al. (2005), Milner (1999), Green and Hale (2017). Please read their **abstracts** carefully.
+I will pick 15 MC questions from here. 3 MC questions will come from BDM et al. (2005), Milner (1999), Green and Hale (2017). Please read their **abstracts** carefully.
 
 ----
 
-1. Which of the following problems do realists think makes cooperation difficult?
+1. According to realists, cooperation is difficult because?
 
     A. states’ lack of shared identities
     
@@ -48,7 +48,7 @@ I will pick 12 MC questions from here. 3 MC questions will come from BDM et al. 
     
     D. Like realists, neoliberal institutionalists view states as rational actors, but believe that can lead to cooperation rather than noncooperation.
 
-5. According to liberal theory, the fact that the General Agreement on Tariffs and Trade (GATT) creates a forum for multilateral negotiations
+5. According to liberal trade theory, the fact that the General Agreement on Tariffs and Trade (GATT) creates a forum for multilateral negotiations
 
     A. reduces transaction costs, making cooperation more likely.
     
@@ -130,7 +130,7 @@ I will pick 12 MC questions from here. 3 MC questions will come from BDM et al. 
 
 13.	Which of the following is a key difference between the League of Nations and the UN?
 
-    A. The UN can authorize the use of force against a member state while the League of Nations could not.
+    A. The UN can authorize the use of force against a member state while the League of Nations cannot.
     
     B. The UN embodies the logic of collective security while the League of Nations did not.
     
@@ -148,7 +148,7 @@ I will pick 12 MC questions from here. 3 MC questions will come from BDM et al. 
     
     D. Complex peacekeeping; traditional peacekeeping
 
-15.	Which policy has been the tool most used by the UN Security Council in peace enforcement actions?
+15.	Which policy has been the tool most used by the UN Security Council to encource peace?
 
     A. use of force
     
@@ -447,6 +447,25 @@ I will pick 15 T/F quizzes from here.
     A. True
     
     B. False
+
+25. Inclusive political and economic institutions are those which do not provide private property.
+
+    A. True
+		
+    B. False
+
+26. Extractive political institutions allow for the major of the public to vote and no not concentrate power among the elite
+
+    A. True
+    
+    B. False
+
+27. Geography provides a comprehensive account for why nations have not been able to achieve economic prosperity
+
+    A. True
+    
+    B. False
+
 
 ## Part III. Short Essay {-}
 
