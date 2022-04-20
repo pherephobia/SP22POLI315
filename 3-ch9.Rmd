@@ -73,7 +73,7 @@ Trade policies
 
 MNCs span state borders through trade and investment and/or actual presence. There are about 60,000 MNCs; they account for 50 percent of worldwide trade. Key engines of global economic growth. Transmission belt for capital, ideas, economic interdependence, and growth.
 
-### Bretton Woods Institutions
+## Bretton Woods Institutions
 
 A set of intergovernmental organizations to support economic liberalism. 
 
@@ -83,7 +83,7 @@ A set of intergovernmental organizations to support economic liberalism.
 
 + The General Agreement on Tariffs and Trade (GATT)<br> $\rightarrow$ The World Trade Organization (WTO)
 
-#### World Bank
+### World Bank
 
 During the 1950s, the World Bank shifted its emphasis from reconstruction to development.
 
@@ -93,7 +93,7 @@ During the 1950s, the World Bank shifted its emphasis from reconstruction to dev
 
 + Much of its funding has been used for infrastructure projects: hydroelectric dams and basic transportation needs such as bridges and highways.
 
-#### International Monetary Fund
+### International Monetary Fund
 
 The International Monetary Fund (IMF) provides stability in exchange rates.
 
@@ -107,7 +107,7 @@ The International Monetary Fund (IMF) provides stability in exchange rates.
 
 + Encouraging structural adjustments and providing policy advice on macroeconomic issues and economic restructuring
 
-#### General Agreement on Tariffs and Trade
+### General Agreement on Tariffs and Trade
 
 Enshrined liberal principles:
 
@@ -119,7 +119,7 @@ Enshrined liberal principles:
 
 + Support for the national treatment of foreign enterprises
 
-#### World Trade Organization
+### World Trade Organization
 
 In 1995, GATT became a formal institution, renaming itself the World Trade Organization (WTO).
 
@@ -133,7 +133,7 @@ In 1995, GATT became a formal institution, renaming itself the World Trade Organ
 
 + Provides a venue for trade review, dispute settlement, and enforcement.
 
-### International Monetary Policy
+## International Monetary Policy
 
 During the 1920s and after World War II, the value of the U.S. dollar was linked to gold. In 1971, the dollar was taken off the gold standard. The prices of each currency adjust continually in response to market supply and demand. Currency trades average more than $3 trillion a day. No global institution addressing monetary policy.
 
@@ -141,7 +141,7 @@ During the 1920s and after World War II, the value of the U.S. dollar was linked
 
 + The U.S. dollar serves as the world reserve currency, giving the United States enormous power. 
 
-### International Trade Negotiations
+## International Trade Negotiations
 
 1986: Uruguay Round of trade talks covered new areas, such as services, intellectual property rights, and agriculture.
 
@@ -159,15 +159,15 @@ The World Trade Organization (WTO) created the .p1-green[Trade Policy Review Mec
 
 The WTO has proved to be a weak institution for facilitating that process, given the procedure adopted by negotiators: “nothing is agreed until everything is agreed.”
 
-### Globalization
-#### Definition
+## Globalization
+### Definition
 
 + As a **process**, the flows of goods, services, people, capital, and technology within a single world economy and the
 transformations of national economies that these flows produce.
 
 + As an **outcome**, a world economy in which government policies pose few barriers to, and technology enables, cross-border economic transactions.
 
-#### Measurements
+### Measurements
 
 Trade openness: Sum of the total imports and exports as a share of GDP
 
