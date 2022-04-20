@@ -1,6 +1,6 @@
 book_filename: "SP22 POLI315 Studyguide"
 output_dir: "docs"
-rmd_file: ["index.Rmd", "ch7.Rmd", "ch8.Rmd", "ch9.Rmd", "ch10.Rmd", "Exampool.Rmd",  "References.Rmd"]
+rmd_file: ["index.Rmd", "1-ch7.Rmd", "2-ch8.Rmd", "3-ch9.Rmd", "4-ch10.Rmd", "Exampool.Rmd",  "References.Rmd"]
 language:
   ui:
     chapter_name: "Topic "
