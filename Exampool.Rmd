@@ -268,7 +268,7 @@ I will pick 15 MC questions from here. 3 MC questions will come from BDM et al. 
     
     D. States must intervene when massive human rights violations are occurring in another state, but may only use military force when authorized by the UN Security Council.
 
-27. `Milnter (1999)`: One of the most salient changes in the world economy since 1980 has been the move toward __________ among countries across the globe. How do existing theories about trade policy explain this puzzle? Three sets of explanations are prominent. First, many focus on changes in trade policy preferences among __________, either societal groups or political leaders. Second, scholars examine changes in political institutions to account for such policy change. Third, they seek explanations in changes in the ______________________________. Large-scale changes in political institutions, especially in the direction of democracy, may be necessary for the kind of massive trade liberalization that has occurred. But changes in preferences cannot be overlooked in explaining the rush to free trade. Moreover, the influence of international institutions has been important. Finally, the reciprocal impact of trade on domestic politics and the international political system is important. If the rush to free trade is sustained, will its impact be benign or malign?
+27. `Milner (1999)`: One of the most salient changes in the world economy since 1980 has been the move toward __________ among countries across the globe. How do existing theories about trade policy explain this puzzle? Three sets of explanations are prominent. First, many focus on changes in trade policy preferences among __________, either societal groups or political leaders. Second, scholars examine changes in political institutions to account for such policy change. Third, they seek explanations in changes in the ______________________________. Large-scale changes in political institutions, especially in the direction of democracy, may be necessary for the kind of massive trade liberalization that has occurred. But changes in preferences cannot be overlooked in explaining the rush to free trade. Moreover, the influence of international institutions has been important. Finally, the reciprocal impact of trade on domestic politics and the international political system is important. If the rush to free trade is sustained, will its impact be benign or malign?
 
     A. freer trade; international actors; domestic political system
     
@@ -284,19 +284,19 @@ I will pick 15 MC questions from here. 3 MC questions will come from BDM et al. 
     
     B. unidimensional measures; multiparty competition; contestation
     
-    C. unidimensional measures; unconventional political arena; accountability
+    C. unidimensional measures; unconventional political arena; contestation
     
-    D. multidimensional measures; multiparty competition; contestation
+    D. multidimensional measures; multiparty competition; accountability
     
 29. `Green and Hale (2017)`: Despite the ___________ urgency of many environmental problems, environmental politics remains at the margins of the discipline. Using data from the Teaching, Research, and International Policy (TRIP) project, this article identifies a puzzle: the majority of international relations (IR) scholars find ___________ among the top three most important policy issues today, yet fewer than 4% identify the environment as their primary area of research. Moreover, environmental research is rarely published in top IR journals, although there has been a recent surge in work focused on climate change. The authors argue that ___________ attention to environmental issues—including those beyond climate change—in IR can bring significant benefits to the discipline, and they discuss three lines of research to correct this imbalance.
 
-    A. increasing; greater; climate change
+    A. increasing; climate change; greater
 
-    B. increasing; less; economic growth
+    B. increasing; economic growth; less
 
-    C. decreasing; greater; climate change
+    C. decreasing; climate change; greater
 
-    D. decreasing; less; economic growth
+    D. decreasing; economic growth; less
 
 ## Part II. True/False Question {-}
 

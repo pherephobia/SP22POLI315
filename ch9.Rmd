@@ -196,6 +196,7 @@ Theory of comparative advantage
 + Ricardo emphasized opportunity costs while previous scholars studied absolute costs to calculate utilities.
 
 ```{r, echo = F}
+library(tidyverse)
 tab2 <- tibble(
   Country = c("England", "Portugal"),
   Cloth   = c(100, 90),

@@ -1,0 +1,137 @@
+# Development and Human Security
+## Development
+### What doesn’t explain major differences in poverty and prosperity?
+
+1. Geography/climate
+
+2. Culture
+
+3. Colonialism
+
+4. Ignorance Hypothesis
+
+### Inclusive vs extractive economic institutions (Acemoglu and Robinson, *Why Nations Fail*)
+
++ Inclusive economic inst. encourage people to participate in society and allow them to benefit from their work and choose the type of interests, education, and jobs they want to have (p. 74)
+
++ Private property, unbias system of law, Provision of public services available to everyone
+
++ Paves the way for technology adaptation and education for the masses
+
+#### Inclusive vs extractive political institutions
+
++ Extractive political institutions, concentrate power to a small elite who then create further institutions that restrict voting and political freedom 
+
++ Interact with extractive economic institutions that take resources from the rest of society to enrich themselves
+
++ “inclusive political institutions, vesting power broadly, would tend to uproot economist institutions that expropriate the resources of the many, erect entry barriers, and suppress the functioning of markets” (p. 81)
+
+### Washington Consensus (Market centric approach) vs. Beijing Consensus (Government-led approach)
+
+## Human Security
+
+Aims to address "widespread and cross-cutting challenges to the survival, likelihood and dignity of ... people."
+
++ According to the UN General Assembly resolution, human security also encompasses “the right of people to live in freedom and dignity, free from poverty and despair.
+
+### Population Dynamics
+#### Malthusian dilemma
+
+Malthus argued that population increase outstrips the food supply, threatening human security. According to him, resource supply increases in linear pattern while population increases geometrically. However, his theory did not take into account demographic transition.
+
++ Population increase is not uniformly distributed: poorer countries have higher growth rates.
+
++ Population growth and economic development mean more demand for scarce natural resources, in particular, arable land and freshwater.
+
++ Lowering population growth rates leads to ethical dilemmas.
+
+#### Decline of Population
+
++ Populations of many Western states are declining and aging.
+
++ Aging populations represent a financial burden for their working counterparts.
+
++ This slows economic growth and weakens state power.
+
+### Migration
+#### Refugees
+
++ Displaced people who cannot safely return home due to a well-founded fear of being persecuted.
+
++ UN High Commissioner for Refugees is responsible for protecting refugees until they are granted asylum or return home.
+
++ Refugees are entitled to non-refoulement.
+
+  + Refugees cannot be forced to return to their country of origin.
+  
+  + Broader definition includes people fleeing civil war and climate change.
+  
+#### Internally displaced people (IDPs)
+
++ People who have been uprooted from their homes but remain in their home country.
+
+  + Technically still under their state’s protection
+  
+  + The state is failing at its basic responsibilities.
+  
+#### Economic migrants
+
++ People fleeing poverty, unemployment, poor economic prospects, etc.
+
++ Don’t have legal right to asylum.
+
++ Are not entitled to international legal protection or to non-refoulement (protection gap)
+
+#### The Primary Difference between a Refugee and an Asylee
+
+Not every asylum seeker will ultimately be recognised as a refugee, but every refugee is initially an asylum seeker.
+
+#### Crisis in Numbers
+
+The international community took a traditional approach in providing “temporary” camps for the displaced, an approach widely used to address the Palestinian refugee crisis in the 1950s.
+
+### Global Health
+
+Public health and communicable disease are issues that have threatened human security across all types of geographic borders throughout human history. Twenty-first-century mobility results in the easier spread of many communicable diseases. The WHO obligates states to report new outbreaks within 24 hours and also provides technical assistance to developing countries.
+
+#### SARS, Ebola, and COVID-19
+
+The SARS (severe acute respiratory syndrome) outbreak of 2002–2003 illustrated the urgency of quick and honest reporting.
+
++ China’s suppression of information proved detrimental.
+
+The 2014 Ebola outbreak in West Africa illustrated the failures of both states and the WHO.
+
++ Neither the WHO nor the states were in charge. 
+
++ NGOs (Doctors Without Borders) organized assistance.
+
++ Over 11,300 people died; economies affected.
+
+COVID-19 was first detected on Dec. 19, 2019, in Wuhan, China.
+
++ China confirmed human-to-human transmission on Jan. 22, 2020.
+
++ China suppressed information and failed to warn the world.
+
++ The WHO failed to provide timely warnings, waiting until March 11, 2020, to declare a global pandemic.
+
++ Individual states were unprepared and, many, failed to report numbers, making tracing difficult.
+
++ The developing world received little of the vaccine supply.
+
++ The COVID-19 pandemic continues to have grave economic repercussions.
+
++ The world may become more protectionist and less open (Stephen Walt).
+
++ Economic inequality and regional differences are likely to increase.
+
+### The Impact of Human Security Issues on the Study of International Relations
+
++ Human security issues, which are transnational in nature, force us to rethink major areas of international relations.
+
++ State sovereignty: transnational problems and the rise of nonstate actors challenge state sovereignty.
+
++ Future of globalization: Will human security issues increase multilateralism and globalization?
+
++ Theoretical frameworks: long-standing assumptions often require rethinking.
