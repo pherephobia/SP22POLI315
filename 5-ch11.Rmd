@@ -1,0 +1,189 @@
+# Energy Politics and Climate Negotiations
+## The Environment: Protecting the Global Commons
+### Two conceptual perspectives
+
++ Collective goods: need to achieve shared benefits by overcoming conflicting interests; Hardin’s concept of the commons
+
+  + The planet itself is a commons; its resources are finite.
+  
+  + Sustainability: policies that promote change that neither damages the environment nor depletes finite resources 
+  
+  + Advancing our survival without doing lasting damage
+  
+  + Costs of environmental harm are diffused across both space and time.
+  
+  + Free riding
+  
+    + The costs of harm to the environment are diffused across both space and time, and the benefits of pollution and unsustainable resource consumption are concentrated and immediate.
+
+    + Each individual state, corporation, or person has a strong incentive to enjoy a “free ride” and hope others will bear the costs of restraint. 
+
+    + Free riding is also what we see in collective action problems and tragedies of the commons.
+
+### The Environment as an Issue in International Relations
+
+Degradation of the environment emerged as an issue in international relations in the twentieth century. Human activity produces negative externalities.
+
++ Definition: A side effect or consequence of an industrial or commercial activity that affects other parties without this being reflected in the cost of the goods or services involved. 
+
++ Example: Pesticides that help us reduce the spread of diseases devastate animal reproductive cycles.
+
+### Institutionalizing Environmental Protection
+
+A series of soft laws developed to protect the environment, which are not legally binding but may become so in the future.
+
++ *No significant harm principle*: A state cannot initiate policies that cause significant environmental damages to another state.
+
++ *Good neighbor principle*: States should take care to avoid acts or omissions that could reasonably be foreseen to cause harm to neighboring states.
+
++ *Polluter pays principle*: Those causing the pollution should be responsible for cleaning it up, or curtailing it.
+
++ *Precautionary principle*: Action should be taken based on scientific warning before irreversible harm occurs. 
+
++ *Preventive action principle*: States should take action in their own jurisdictions to avoid harm to the environment.
+
+In addition to states, IGOs and NGOs play prominent roles in protecting the global commons.
+
++ Publicize their dissatisfaction
+
++ Get environmental issues onto international agendas and influence state behavior
+
++ Function as part of epistemic communities
+
+  + A transnational community of experts and technical specialists from international organizations, NGOs, and state and substate agencies that share a set of beliefs.
+  
+  + These communities share expertise, notions of validity, and a set of practices organized around solving a particular problem.
+
+Trade agreements are another institutional way to address environmental problems.
+
++ The North American Free Trade Agreement (NAFTA) instituted in 1995 was known at first as more environmentally friendly than other agreements.
+
++ It required each party to maintain its own level of environmental protection and ban imports produced in violation of those standards.
+
+Environmental problems can be managed if states agree to cooperate.
+
++ Example: ozone depletion due to use of chlorofluorocarbons (CFCs)
+
+  + States agreed to phase out the use of CFCs.
+  
+  + Developed states agreed to finance costs of compliance.
+  
+  + Multinational corporations (MNCs) eventually supported the prohibition of CFCs.
+
+## The Problem of Climate Change
+
+
+The issue of climate change is complicated as there are no inexpensive substitutes for agricultural, communications, and industrial processes.
+
+Scientific facts are indisputable: the earth is warming.
+
++ With a projected increase of between 1.9 and 3 degrees Celsius estimated by the end of the twenty-first century.
+
++ That acceleration in atmospheric and ocean warming has resulted in glacial and ice sheet melting and a rise in sea levels, as well as rising temperatures on land and the exponential increase in the number of extreme weather events like hurricanes, floods, and fires.
+
+Climate change has a high human cost.
+
++ Low elevations losing land mass
+
++ Extreme weather events
+
++ Higher rates of waterborne diseases
+
+Costs of solutions are immediate, but benefits emerge after decades.
+
+### Approaches to Climate Change Mitigation
+
+The international community has made attempts to respond to climate change through **mitigation**: reducing greenhouse gas emissions and enhancing carbon sinks.
+
++ The Kyoto Protocol (1997)
+
+  + Developed states agree to reduce emissions
+  
+  + Less developed states are not obligated. 
+
+  + Provides flexible mechanisms to meet goals
+
+  + Trading of emissions shares
+
+    + Credits earned from carbon sinks
+  
+    + Credit for aiding other states in meeting standards
+
++ The Paris Agreement (2015)
+
++ Getting top polluters (the United States, China, and India) to limit emissions
+
++ **Geoengineering**: large-scale manipulations of the physical, chemical, or biological systems to reduce levels of atmospheric gas
+
+### Climate Change Adaptation
+
+**Adaptation** to climate change means shifting resources into preparing for and remediating the effects of climate change.
+
++ Using scarce resources more efficiently
+
++ Using drought resistant crops
+
++ Achieving energy efficiency
+
++ Adopting stronger building codes to prepare for extreme weather events
+
+Adaptation is very costly; the costs are immediate whereas the benefits are not.
+
+### Article: Green and Hale (2017)
+
+Majority of IR scholars find climate change among the top three most important policy issues, yet fewer than 4% identify the environment as their primary area of research. It is a short paper with diagnosis and suggestions.
+
+Green and Hale (2017) argue that greater attention to environmental issues in IR can bring significant benefits to the discipline. Also, they discuss solutions to correct this imbalance.
+
++ Build *environmental politics* as a discipline.
+
++ Bringing GEP (global environmental politics) into the IR mainstream
+
+### Natural Resource Issues
+
+Natural resource issues are about increasing demand and declining resources.
+
+#### Freshwater Resources
+
++ As freshwater becomes more scarce, freshwater has become a major international issue.
+
++ Can lead to conflicts (e.g., Middle East, Ethiopia’s Grand Resistance Dam)
+
+#### Land Resources: Forest
+
++ The rate of deforestation has been very high: In 2019, 12 million hectares of tropical tree cover were lost; even more in 2020.
+
++ Deforestation has significant consequences. 
+
+#### Protection of Species
+
++ Almost one million animal and plant species are being threatened with extinction within decades. Various conventions and treaties try to prevent that.
+
++ Convention on Biological Diversity (1992) aims to conserve biodiversity and advocates equitable and sustainable use.
+
+### Polution of the Commons
+#### Air
+
+Every year, thousands of deaths can be attributed to air pollution.
+
+In most instances, extreme air pollution is treated domestically.
+
++ Yet, pollution does not respect national borders.
+
+#### Oceans
+
+Oceans are warming and absorb excess carbon dioxide making seawater more acidic and less oxygenated.
+
+May move through the food chain and affect humans
+
+Agricultural activities affect coastal waters. Fertilizers can change water’s acidity and oxygen levels.
+
+### Environmental Issues and Conflict
+
+The degradation of renewable resources may lead to violence as people start competing over them.
+
++ Especially true about oil, which is vital for industry and economy
+
+Climate change may also lead to insecurity and violence.
+
+Climate change may also exacerbate migration, often to contested lands.
