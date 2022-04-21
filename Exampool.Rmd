@@ -1,7 +1,5 @@
 # Final Exam Pool {-}
 
-It is a living documents by April 22th.
-
 ## Part I. Multiple-Choice {-}
 
 I will pick 15 MC questions from here. 3 MC questions will come from BDM et al. (2005), Milner (1999), Green and Hale (2017). Please read their **abstracts** carefully.
